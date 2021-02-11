@@ -1,0 +1,164 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
+   <meta name="Author" content="문양세">
+   <meta name="GENERATOR" content="Mozilla/4.51 [en] (Win98; I) [Netscape]">
+   <title>COSMOS: 다목적 멀티미디어 객체 저장시스템</title>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#0000EE" vlink="#551A8B" alink="#FF0000">
+
+<center>
+<h1>
+<img SRC="gifs/cosmos_hd_kor.gif" height=117 width=558></h1></center>
+
+<hr WIDTH="88%">
+<br>　
+<center><table BORDER=0 CELLSPACING=4 CELLPADDING=10 WIDTH="86%" BACKGROUND="gifs/background.gif" >
+<tr VALIGN=TOP>
+<td>
+<h2>
+최종 목표</h2>
+
+<ul>
+<li>
+대용량 멀티미디어 데이터를 효율적으로 저장하고 관리할 수 있는 다 사용자용
+다목적 멀티미디어 객체 저장 시스템</li>
+</ul>
+
+<h2>
+기능 및 특징</h2>
+
+<ul>
+<li>
+대용량 멀티미디어 객체에 대한 저장 및 검색에 탁월한 성능</li>
+
+<li>
+동적 수정이 빈번히 요구되는 웹 사이트 검색 시스템, 인트라넷에서의 문서
+검색 시스템,　 논문 검색 시스템, 전자 도서관에 탁월한 성능</li>
+
+<li>
+다 사용자 동시 접근 기능</li>
+
+<li>
+정교한 WAL 기반 파손 회복 기법</li>
+
+<li>
+사용자가 사용하기 쉬운 일관된 사용자 인터페이스</li>
+
+<li>
+원시 디바이스 위에 구현한 파일 시스템 사용</li>
+</ul>
+
+<center>　<img SRC="gifs/cosmos_st_kor.gif" height=431 width=625></center>
+
+<h2>
+　</h2>
+
+<h2>
+활용 분야</h2>
+
+<ul>
+<li>
+관계형 데이터베이스 관리 시스템</li>
+
+<li>
+객체지향 데이터베이스 관리 시스템</li>
+
+<li>
+멀티미디어 데이터베이스 관리 시스템</li>
+
+<li>
+정보 검색 엔진</li>
+
+<li>
+웹사이트 검색 엔진</li>
+
+<li>
+공학 데이터베이스 관리 시스템</li>
+
+<li>
+홈쇼핑(Home Shopping)</li>
+
+<li>
+전자 도서관(Digital Library)</li>
+
+<li>
+멀티미디어 정보검색 시스템</li>
+
+<li>
+멀티미디어/하이퍼미디어 저작 도구</li>
+
+<li>
+지리정보시스템(GIS)</li>
+
+<br>　　　　</ul>
+
+<h2>
+상품화 사례</h2>
+
+<ul>
+<li>
+삼성에스디에스(주)의 웹-사이트 검색 시스템인 <a href="http://www.naver.com">Naver</a>(구
+Web Glider)에 정보 검색용 저장 시스템으로 장착하여 사용중에 있음(기존 시스템보다
+약 6배 빠른 성능 향상). Naver는 국내 최대의 데이타베이스와 제일 빠른 검색
+속도를 제공함.</li>
+</ul>
+
+<h2>
+<font size=-2>　　</font></h2>
+
+<h2>
+기대효과</h2>
+
+<ul>
+<li>
+국내 데이터 저장 시스템의 핵심 기술 확보</li>
+
+<li>
+정보 검색(IR) 엔진과의 밀결합</li>
+
+<li>
+GIS등 공간 색인과의 밀결합</li>
+</ul>
+
+<h2>
+<font size=-2>　　</font></h2>
+
+<h2>
+연구진행사항 및 향후계획</h2>
+
+<ul>
+<li>
+멀티미디어 기능 보강: 연속 매체, 동기화</li>
+
+<li>
+고급 DBMS 기능 지원: 긴 트랜잭션, 버전 관리　</li>
+
+<br>　　　　　　　　　　　　　</ul>
+</td>
+</tr>
+</table></center>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp;
+<hr WIDTH="100%">
+<center>[ <a href="../Intro/main_kor.html">연구실 소개</a> || <a href="main_kor.html">연구분야
+및 과제</a> || <a href="../Publication/main_kor.html">발표논문 </a>|| <a href="../Members/main_kor.html">구성원
+소개 </a>|| <a href="../Other/main_kor.html">기타 </a>]</center>
+
+<hr WIDTH="100%">
+<table WIDTH="719" >
+<tr>
+<td ALIGN=LEFT VALIGN=BOTTOM><font face="바탕체"><font size=-1>제안이나
+요구 사항은 <a href="mailto:webmaster@mozart.kaist.ac.kr">webmaster@dblab.kaist.ac.kr</a>로</font></font>
+<br><font face="바탕체"><font size=-1>보내주시가 바랍니다.</font></font>
+<br><font face="바탕체"><font size=-1>최종수정일: 1998년 1월 23일</font></font></td>
+
+<td VALIGN=CENTER><a href="cosmos_eng.htm"><img SRC="gifs/english.gif" ALT="KOREAN" BORDER=0 height=58 width=58></a><a href="main_kor.html">　</a></td>
+
+<td ALIGN=RIGHT><a href="../index.html"><img SRC="gifs/home.gif" ALT="DB & MM" BORDER=0 height=31 width=116></a>　</td>
+</tr>
+</table>
+
+<hr WIDTH="100%">
+</body>
+</html>

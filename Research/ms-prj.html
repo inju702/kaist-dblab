@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<TITLE>Answering Top-k queries Using a Partitioned Layer Index</TITLE>
+<META content="Tae-Seob Yun" name=Author>
+<META content="MSHTML 5.00.2919.6307" name=GENERATOR></HEAD>
+<BODY aLink=#ff0000 bgColor=#ffffff link=#0000ee text=#000000 vLink=#551a8b>
+<CENTER>
+<H1><img src="images/top_k_queries_smartbutton1.gif" border="0"></H1></CENTER><HR SIZE=1 width="98%"><BR><CENTER>
+<TABLE width="85%">
+  <TBODY><font face="Times New Roman">
+  <TR vAlign=top><TD>
+					
+				  <p>
+				  <FONT FACE="Book Antiqua"><FONT COLOR="#000066"><FONT SIZE=+3>Abstract</FONT></FONT></FONT></B>
+				  <ul><font face="??">A top-<i>k</i> query returns <i>k</i> tuples with the highest (or the lowest) scores from a relation. Layer-ordering methods are well-known studies that process top-<i>k</i> queries effectively. These methods construct a database as a single list of layers. Here, the <i>i</i>-th layer has the objects that can be the top-<i>i</i> object. Thus, these methods answer top-<i>k</i> queries by reading at most <i>k</i> layers. Query performance, however, is poor when the number of objects in each layer (simply, the <i>layer size</i>) is large. In order to reduce the layer size, in this project, we will investigate the notion of partitioning layers, which constructs a database as multiple sublayer lists instead of a single layer list.</font></ul></p>
+<HR width="100%">
+				<p>
+				<FONT FACE="Book Antiqua"><FONT COLOR="#000066"><FONT SIZE=+3>Project description</FONT></FONT></FONT></B>
+				<ul><font face="??">A top-<i>k</i>(<i>ranked</i>) query returns <i>k</i> tuples with the highest (or the lowest) scores in a relation <a href="#References">[LCI+05]</a>. A score function is generally in the form of a linearly weighted sum as shown in Eq.(1) <a href="#References">[HKP01]</a>. Here, p[<i>i</i>] and t[<i>i</i>] denote the weight and the value of the <i>i</i>-th attribute of a tuple <i>t</i>, respectively. The <i>d</i>-dimensional vector that has p[<i>i</i>] as the <i>i</i>-th element is called the <i>preference vector</i> <a href="#References">[HKP01]</a>, where <i>d</i> denotes the number of attributes of <i>t</i>.</font></ul></p>
+
+				<CENTER><img src="images/top_k_queries_equation1.gif" border="0"></CENTER>
+
+				<ul><font face="??">Top-<i>k</i> queries are widely used in a number of applications that need to find top-<i>k</i> results through ranking. For example, ranking colleges or ordering houses listed for sale are applications of top-<i>k</i> queries. Colleges are represented by a relation that has numerical attributes such as the assessment of faculty resources, school fee, and percentage of employment. Houses are represented by a relation that has numerical attributes such as the cost of housing, number of bedrooms, and area. Users search for the <i>k</i> colleges or houses with the highest scores according to their own preference vector <a href="#References">[CBC+00, HKP01, XCH06]</a>.</font></ul></p>
+
+				<ul><font face="??">To process a top-<i>k</i> query, a naive method would calculate the score of each tuple according to the score function, and then, finds the top <i>k</i> tuples by sorting the tuples based on their scores. This method, however, is not appropriate for a query with a relatively small value of <i>k</i> over large databases because it incurs a significant overhead by reading even those tuples that cannot possibly be the results <a href="#References">[XCH06]</a>.</font></ul></p>
+
+				<CENTER><img src="images/top_k_queries_figure1.gif" border="0"><br></CENTER>
+
+				<ul><font face="??">Layer-ordering methods are well-known in that they process top-<i>k</i> queries effectively by accessing only a subset of the database instead of unnecessarily accessing the entire one <a href="#References">[CBC+00, XCH06]</a>. Layer-ordering methods construct the first layer with the objects that can be the top-1 object among the entire set of objects and construct the second layer with the objects that can be the top-2 object among the set of the remaining objects (i.e., objects excluding the objects in the first layer). By repeatedly preprocessing all the objects in the same manner, they construct a list of consecutive layers (simply, a <i>layer list</i>). The layer-ordering methods have two advantages: 1) storage overhead is negligible <a href="#References">[CBC+00]</a>, and 2) query performance is not very sensitive to the preference vector of a score function given by the query <a href="#References">[XCH06]</a>. Nevertheless, it also has a serious disadvantage: when the number of objects in each layer (simply, the <i>layer size</i>) is large, these methods have bad query performance because many unnecessary objects have to be read to process the query <a href="#References">[HKP01]</a>.</font></ul></p>
+
+				<ul><font face="??">In this project, we will investigate a new layer-ordering method that reduces the layer size in order to improve query performance. First, we will propose the notion of the <i>convex skyline</i>, which is a combination of the convex hull <a href="#References">[BKO+00]</a> and the <i>skyline</i> <a href="#References">[BKS01]</a>, in constructing layer lists. Using the convex skyline reduces the sizes of layers compared with using the convex hull or the skyline. Second, we will investigate the notion of partitioning layers, which constructs a database as multiple sublayer lists instead of a single layer list in order to further reduce the layer size. Finally, we will perform extensive experiments using synthetic and real data sets in order to evaluate the query performance advantage of our methods.</font></ul></p>
+<HR width="100%">
+				<p>
+				<FONT FACE="Book Antiqua"><FONT COLOR="#000066"><FONT SIZE=+3>Organization</FONT></FONT></FONT></B>
+				<ul><font face="??">
+				<li><FONT SIZE=+1>Responsible Person</font></li>
+					<ul>
+						<li> <a href=http://dblab.kaist.ac.kr/Prof/main_eng.html>Kyu-Young Whang (PI)</a></li>
+					</ul>
+				<br>
+				<li><FONT SIZE=+1>Research Assistant</font></li>
+					<ul>				
+						<li>Jun-Seok Heo (Ph.D candidate, <a href="mailto:jsheo@mozart.kaist.ac.kr">jsheo@mozart.kaist.ac.kr)</a></li>
+						<li><a href=http://dblab.kaist.ac.kr/~early>Yi-Reun Kim</a> (Ph.D candidate, <a href="mailto:yrkim@mozart.kaist.ac.kr">yrkim@mozart.kaist.ac.kr)</a></li>						
+					</ul>
+				</font></ul></p>
+
+<HR width="100%">
+				<p>
+				<FONT FACE="Book Antiqua"><FONT COLOR="#000066"><FONT SIZE=+3><a name=References>References</a></FONT></FONT></FONT></B>
+				<ul><font face="??">
+				<li>[BKO+00]	Berg, M., Kreveld, M., Overmars, M., and Schwarzkopf, O., <i>Computational Geometry: Algorithms and Applications</i>, 2nd ed., Springer-Verlag, 2000.</li><br><br>
+				<li>[BKS01] Borzsonyi, S., Kossmann, D., and Stocker, K., "The Skyline Operator," In Proc. <i>17th Int'l Conf. on Data Engineering (ICDE)</i>, pp.421-430, Heidelberg, Germany, Apr. 2001.</li><br><br>
+				<li>[CBC+00] Chang, Y. C., Bergman, L., and Castelli, V., "The Onion Technique: Indexing for Linear Optimization Queries," In Proc. <i>Int'l Conf. on Management of Data</i>, ACM SIGMOD, pp.391-402, Dallas, Texas, May 2000.</li><br><br>
+				<li>[HKP01] Hristidis, V., Koudas, N., and Papakonstantinou, Y., "PREFER: A System for the Efficient Execution of Multiparametric Ranked Queries," In Proc. <i>Int'l Conf. on Management of Data</i>, ACM SIGMOD, pp.259-270, Santa Barbara, California, May 2001.</li><br><br>
+				<li>[LCI+05] Li, C., Chang, K. C.-C., Ilyas, I. F., and Song, S., "RankSQL: Query Algebra and Optimization for Relational Top-k Queries," In Proc. Int'l Conf. on Management of Data, ACM SIGMOD, pp.131-142, Baltimore, Maryland, June 2005.</li><br><br>
+				<li>[XCH06] Xin, D., Chen, C., and Han, J., "Towards Robust Indexing for Ranked Queries," In Proc. <i>32nd Int'l Conf. on Very Large Data Bases (VLDB)</i>, pp.235-246, Seoul, Korea, Sept. 2006.</li><br><br>
+				</font><ul></p>
+               
+
+
+</TD></TR></font></TBODY></TABLE></CENTER>
+<HR width="100%">
+
+<CENTER>[ <A href="http://dblab.kaist.ac.kr/Intro/main.html">Introduction</A> || 
+<A href="http://dblab.kaist.ac.kr/Research/main.html">Research
+Projects</A> || <A 
+href="http://dblab.kaist.ac.kr/Publication/main.html">Publications </A>|| <A 
+href="http://dblab.kaist.ac.kr/Members/main.html">Members </A>|| <A 
+href="http://dblab.kaist.ac.kr/Other/main.html">Others </A>]</CENTER>
+<HR width="100%">
+
+<TABLE width=670>
+  <TBODY>
+  <TR>
+    <TD align=left vAlign=bottom><FONT size=-1>Please send any suggestion or comments for this page to <br>
+    <A href="mailto:webmaster@mozart.kaist.ac.kr">webmaster@mozart.kaist.ac.kr</A></FONT>
+      <BR><FONT size=-1>Last updated Nov. 9th, 2009</FONT></TD>    
+    <TD align=right><A href="http://dblab.kaist.ac.kr/index.html"><IMG alt="DB &amp; MM" border=0 height=31 src="gifs/home.gif" width=116></A>
+    </TD></TR></TBODY></TABLE>
+</BODY>
+</HTML>

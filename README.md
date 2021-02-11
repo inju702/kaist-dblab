@@ -1,1 +1,1 @@
-# kaist-dblab
+# dblab

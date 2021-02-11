@@ -1,0 +1,833 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=EUC-KR">
+   <TITLE>Professor Whang Kyu-Young (KAIST Distinguished Professor)</TITLE>
+</HEAD>
+<!--BODY BACKGROUND="gifs/background.gif" LEFTMARGIN="40"-->
+<BODY LEFTMARGIN="40">
+
+<div align="left">
+<form method="get" action="http://bizet.kaist.ac.kr:8080/odysseus.drv" target="_child">
+<table cellpadding="0" cellspacing="0" width="100%" height="37">
+        <tr>
+                <td width="1121" background="img/back_01.JPG">
+                <table cellpadding="0" cellspacing="0" width="820" height="37">
+                        <tr>
+                                <td width="110" background="img/back_01.JPG">
+                                <p><img src="img/img-ms2.gif" border="0"><a href=# onclick="javascript:window.open('http://bizet.kaist.ac.kr:8080/homeSearch.html','','top=100,left=100,width=640,height=520');"><img  src="img/odys_new.gif" border="0"></a></p></td>
+                                <td width="400" background="img/back_01.JPG">
+                                <p align="right">
+                                <select name="OWval" size="1">
+                                <option selected value="demo_8_home.html">홈서치</option>
+                                <!-- <option selected value="demo_8_home.html">홈서치</option> -->
+                                <!-- <option value="search.html">통합검색</option> 
+                                <option value="1.html">사이트검색</option>
+                                <option value="2.html">웹문서검색</option> -->
+                                </select>
+                                <input type="text" name="query" size="32">
+                                </p>
+                                </td>
+                                <td width="90" background="img/back_01.JPG">
+                                <p align="center"><input type="submit" name="search" value="Search"></p>
+
+                                </td>
+                                <td width="20" background="img/back_01.JPG">
+                                <p><img src="img/img-ms3.gif" width="8" height="37" border="0"></p>
+                                </td>
+                                <td width="100" background="img/back_01.JPG">
+                                <p><font size="2"><input type="radio" name="mode" value="off" checked> 일반검색</font></p>
+                                </td>
+                                <td width="100" background="img/back_01.JPG">
+                                <p><font size="2"><input type="radio" name="mode" value="on"> 자연어검색</font></p>
+                                </td>
+                                <input type="hidden" name="siteId" value=2000000>
+                        </tr>
+                </table>
+                </td>
+        </tr>
+</table>
+</form>
+</div>
+
+<TABLE WIDTH="100%">
+<TD>
+<H1><FONT FACE="Book Antiqua">Professor&nbsp; Whang, Kyu-Young (KAIST Distinguished Professor)</FONT></H1>
+</TD>
+<TD ALIGN=RIGHT VALIGN=TOP><A HREF="main_kor.html"><IMG SRC="gifs/hangul.gif" ALT="KOREAN" BORDER=0 ></A>&nbsp;</TD>
+</TD>
+</TABLE>
+
+<TABLE WIDTH="100%">
+<TR>
+<TD ALIGN=CENTER VALIGN=CENTER WIDTH="100"><IMG SRC="kywhang-photo5.jpg" width= "150 height="189" HSPACE=30 ></TD>
+
+<!--
+<TD><FONT FACE="Times New Roman,Times"><I>Office:&nbsp;</I>&nbsp;</FONT>&nbsp;
+-->
+
+<TD>
+<I><FONT FACE="Times New Roman,Times">&nbsp;&nbsp;&nbsp;&nbsp; 
+<A HREF="http://cs.kaist.ac.kr">
+Computer Science Department
+</A>&nbsp;</I>&nbsp;</FONT>&nbsp;
+<BR><I><FONT FACE="Times New Roman,Times">&nbsp;&nbsp;&nbsp;&nbsp; <A HREF="http://www.kaist.ac.kr">
+Korea Advanced Institute of Science and Technology</A>&nbsp;</I>&nbsp;</FONT>&nbsp;
+<BR><FONT FACE="Times New Roman,Times"><I>&nbsp;&nbsp;&nbsp;&nbsp; 
+373-1 Koo-Sung Dong, Yoo-Sung Ku&nbsp;</I>&nbsp;</FONT>&nbsp;
+<BR><FONT FACE="Times New Roman,Times"><I>&nbsp;&nbsp;&nbsp;&nbsp; 
+Daejeon 305-701, Korea&nbsp;</I>&nbsp;</FONT>&nbsp;
+
+<P><FONT FACE="Times New Roman,Times"><I>&nbsp;&nbsp;&nbsp;&nbsp; Phone:
++82-42-869-3522&nbsp;</I>&nbsp;</FONT>&nbsp;
+<BR><FONT FACE="Times New Roman,Times"><I>&nbsp;&nbsp;&nbsp;&nbsp; Fax:
++82-42-867-3562&nbsp;</I>&nbsp;</FONT>&nbsp;
+<BR><I><FONT FACE="Times New Roman,Times">&nbsp;&nbsp;&nbsp;&nbsp; E-mail
+: <A HREF="mailto:kywhang@mozart.kaist.ac.kr">kywhang@cs.kaist.ac.kr</A></FONT></I>
+<BR><FONT FACE="Times New Roman,Times"><I>&nbsp;&nbsp;&nbsp;&nbsp; Lab URL:
+ <A href="http://dblab.kaist.ac.kr">http://dblab.kaist.ac.kr</A></FONT></I>
+
+</TD>
+
+
+</TR>
+</TABLE>
+
+<HR>
+<!--
+<CENTER>[ 
+<A HREF="#Education">Education </A>|| 
+<A HREF="#Experience">Professional Experience </A>|| 
+<A HREF="#Interests">Research Interests </A>
+]</CENTER>
+
+<CENTER>[
+<A HREF="#Honors">Honors </A> || 
+<A HREF="#Activities">Professional Activities </A>|| 
+<A HREF="#Publication">Publications </A>|| 
+<A HREF="#Projects">Projects</A>
+]</CENTER>
+-->
+
+<CENTER>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash4/cabs/swflash.cab#version=4,0,0,0" width="151" height="39">
+            <param name="movie" value="../banner/banner154-blue.swf">
+            <param name="play" value="true">
+            <param name="loop" value="true">
+            <param name="quality" value="high">
+            <embed src="banner/banner154-blue.swf" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" width="151" height="39"></embed>
+            </object> &nbsp;&nbsp;
+[ 
+<A HREF="http://organ.kaist.ac.kr">Lab Homepage </A>|| 
+<A HREF="#BriefBio">Brief Bio </A>|| 
+<A HREF="#Education">Education </A>|| 
+<A HREF="#Experience">Professional Experience </A>|| 
+<A HREF="#Interests">Research Interests </A>|| 
+<A HREF="#Courses">Courses</A> ]
+<p>[ 
+<A HREF="#Honors">Honors </A>|| 
+<A HREF="#Activities">Professional Activities </A>|| 
+<A HREF="#Publication">Publications </A>||
+<A HREF="#Talks">Invited Talks </A>||
+<A HREF="../Research/main.html">Research & Projects </A>||
+<A HREF="#Projects">Major Projects </A>||
+<!--<A HREF="Students_eng.html">Alumni</A>-->
+<A HREF="../Members/alumni_eng.html">Alumni</A>
+]</CENTER>
+
+
+
+<P><A NAME="BriefBio"></A>
+<H3>
+<IMG SRC="gifs/purpleball.gif" > <FONT FACE="Book Antiqua"><FONT SIZE=+2>
+Brief Bio
+</FONT></FONT></H3>
+
+Kyu-Young Whang graduated (Summa Cum Laude) from Seoul National University in 1973 and received the M.S. degrees from Korea Advanced Institute of Science and Technology (KAIST) in 1975, and Stanford University in 1982. He earned the Ph.D. degree from Stanford University in 1984. From 1983 to 1991, he was a Research Staff Member at the IBM T. J. Watson Research Center, Yorktown Heights, NY. In 1990, he joined KAIST, where he currently is a <I>KAIST Distinguished Professor</I> at the Department of Computer Science and the Director of the Advanced Information Technology Research Center (AITrc). His research interests encompass database systems/storage systems, object-oriented databases, multimedia databases, geographic information systems (GIS), data mining/data warehouses, XML databases, and data streaming. He is an author of over 100 papers in refereed international journals and conference proceedings (and over 150 papers in domestic ones). 
+<br>
+<br>
+Dr. Whang served as an IEEE Distinguished Visitor from 1989 to 1990, received the Best Paper Award from the 6th IEEE International Conference on Data Engineering (ICDE) in 1990, served the ICDE six times as a program co-chair and vice chair from 1989 to 2003, and served program committees of over 110 international conferences including VLDB and ACM SIGMOD. He was the program chair (Asia and Pacific Rim) for COOPIS'98, the program chair (Asia, Pacific, and Australia) for VLDB 2000, and a program co-chair of ICDE2006. He was the general chair of VLDB2006, PAKDD 2003, and DASFAA 2004. He twice received the External Honor Recognition from IBM. Dr. Whang served as an Editor-in-Chief of the VLDB Journal from 2003-2009 (Coordinating EIC from 2007-2009) after serving the editorial board as a founding member for thirteen years. He was an associate editor of the IEEE Data Engineering Bulletin from 1990 to 1993, Distributed and Parallel Databases Journal from 1991 to 1995, Int'l J. of GIS from 1994 to 2007, and IEEE TKDE from 2002 to 2006. He is on the editorial boards of the WWW Journal. He was a trustee of the VLDB Endowment from 1998 to 2004 (reelected from 2010). He served as the chair, vice chair, and is currently serving as the advisory member of the steering committee of the DASFAA conference. He is a steering committee member of the IEEE ICDE, PAKDD, and APWeb Conferences. He served the IEEE Computer Society Asia/Pacific Activities Group as the Korean representative from 1993 to 1997. 
+<br>
+<br>
+Dr. Whang is an ACM Fellow, an IEEE Fellow, and a member of IFIP WG 2.6. 
+<br>
+
+<!-- ***************************************************************** 
+&nbsp;
+<P><A NAME="Education"></A>
+<H3>
+<br>
+<IMG SRC="gifs/purpleball.gif" > <FONT FACE="Book Antiqua"><FONT SIZE=+2>
+Education</FONT></FONT></H3>
+
+<TABLE WIDTH="679" border = 1 >
+<TR>
+<TD VALIGN=TOP WIDTH="45">1984</TD>
+
+<TD VALIGN=TOP WIDTH="69">Ph.D.</TD>
+
+<TD VALIGN=TOP width="551"><A HREF="http://csl.stanford.edu">Computer Systems Laboratory</A>,
+<A HREF="http://cs.stanford.edu">Stanford University</A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP width="45">1982</TD>
+
+<TD VALIGN=TOP width="69">M.S.</TD>
+
+<TD VALIGN=TOP width="551"><A HREF="http://csl.stanford.edu">Computer Systems Laboratory</A>,
+<A HREF="http://cs.stanford.edu">Stanford University</A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP width="45">1975</TD>
+
+<TD VALIGN=TOP width="69">M.S.</TD>
+
+<TD VALIGN=TOP width="551"><A HREF="http://www-ee.kaist.ac.kr">Department of Electrical
+Engineering</A>, <A HREF="http://www.kaist.ac.kr">KAIST</A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP width="45">1973</TD>
+
+<TD VALIGN=TOP width="69">B.S.</TD>
+
+<TD VALIGN=TOP width="551"><A HREF="http://www-ee.snu.ac.kr">Department of Electronics</A>,
+<A HREF="http://www.snu.ac.kr">Seoul National University</A></TD>
+</TR>
+</TABLE>
+-->
+
+<!-- ***************************************************************** -->
+&nbsp;
+<P><A NAME="Experience"></A>
+<H3>
+<IMG SRC="gifs/purpleball.gif" > <FONT FACE="Book Antiqua"><FONT SIZE=+2>
+Professional Experience</FONT></FONT></H3>
+
+<TABLE WIDTH="96%">
+<TR>
+<TD VALIGN=TOP WIDTH="120">2008 - present&nbsp;</TD>
+
+<TD VALIGN=TOP>KAIST Distinguished Professor</TD>
+</TR>
+
+
+
+<TR>
+<TD VALIGN=TOP WIDTH="120">1990 - present&nbsp;</TD>
+
+<TD VALIGN=TOP>Professor, <A HREF="http://cs.kaist.ac.kr">Computer Science
+Department</A>, <A HREF="http://www.kaist.ac.kr">KAIST</A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP WIDTH="120">1999 - 2008&nbsp;</TD>
+
+<TD VALIGN=TOP>Director, <A HREF="http://aitrc.kaist.ac.kr">Advanced
+Information Technology Research Center(AITrc)</A> -- an Engineering Research
+Center(ERC) of Excellence supported by <a href="http://www.kosef.re.kr">Korea
+Science and Engineering Foundation(KOSEF)</a>
+</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>1998 - 1999</TD>
+
+<TD>Director, <A HREF="http://libr0.kaist.ac.kr/aicc/">Academic Information
+Management, Computing, and Science Library</A>, <A HREF="http://www.kaist.ac.kr">KAIST</A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>1995 - 1997</TD>
+<TD VALIGN=TOP>Chairman, <A HREF="http://cs.kaist.ac.kr">Computer Science
+Department</A>, <A HREF="http://www.kaist.ac.kr">KAIST</A></TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>1983 - 1990</TD>
+
+<TD VALIGN=TOP>Research Staff Member, <A HREF="http://www.ibm.com">IBM</A>
+T.J. Watson Research Center</TD>
+</TR>
+
+<TR>
+<TD VALIGN=TOP>1975 - 1978</TD>
+
+<TD>Senior Engineer, Agency for Defense Development (ADD), Korea</TD>
+</TR>
+</TABLE>
+
+<!-- ***************************************************************** -->
+&nbsp;
+<P><A NAME="Interests"></A>
+<H3>
+<IMG SRC="gifs/purpleball.gif" > <FONT FACE="Book Antiqua"><FONT SIZE=+2>Research
+Interests</FONT></FONT>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</H3> 
+
+<UL>
+
+<LI>
+<FONT FACE="Times New Roman,Times">Object-Relational Database Systems</FONT></LI>
+
+<LI>
+<FONT FACE="Times New Roman,Times">XML and Web Databases</FONT></LI>
+
+<LI>
+<FONT FACE="Times New Roman,Times">IR and Search Engines</FONT></LI>
+
+<LI>
+<FONT FACE="Times New Roman,Times">Data Warehousing and Data Mining</FONT></LI>
+
+<LI>
+<FONT FACE="Times New Roman,Times">Advanced Storage Systems</FONT></LI>
+
+<LI>
+<FONT FACE="Times New Roman,Times">Spatial Databases and GIS</FONT></LI>
+
+<LI>
+<FONT FACE="Times New Roman,Times">Distributed Systems, P2P, Web Services</FONT></LI>
+
+<li>
+<FONT FACE="Times New Roman,Times">Multimedia Information Systems</FONT></li>
+
+<li>
+<FONT FACE="Times New Roman,Times">Main-Memory Database Systems</FONT></li>
+
+<li>
+<FONT FACE="Times New Roman,Times">Light-weight Database Systems</FONT></li>
+
+<li>
+<FONT FACE="Times New Roman,Times">Sensor Networks and Stream Databases</FONT></li>
+</UL>
+
+&nbsp;
+<P><A NAME="Courses"></A>
+<H3>
+<IMG SRC="gifs/purpleball.gif" > <FONT FACE="Book Antiqua"><FONT SIZE=+2>
+Courses
+</FONT></FONT>&nbsp;&nbsp;&nbsp;&nbsp; 
+<FONT FACE="Book Antiqua"><FONT SIZE=+0><A HREF="Courses_eng.html">
+Details
+</A></FONT></FONT></H3>
+
+&nbsp;
+<P><A NAME="Honors"></A>
+<H3>
+<IMG SRC="gifs/purpleball.gif" > <FONT FACE="Book Antiqua"><FONT SIZE=+2>Honors</FONT></FONT></H3>
+
+<UL>
+
+<LI>
+ACM Fellow, Jan. 2009
+</LI>
+
+<LI>
+KAIST Distinguished Professor, May 2008-present
+</LI>
+
+<LI>
+KIISE Distinguished Visitor, 2008                                     
+</LI>
+
+<LI>
+Academic Contributions Award (Gold), Korea Institute for Information Scientists and Engineers (KIISE), July 2008
+</LI>
+
+<LI>
+IEEE Fellow, Jan. 2007
+</LI>
+
+<LI>
+ACM SIGMOD Distinguished Database Profile, Apr. 2007
+</LI>
+
+<LI>Fellow, <a href="http://www.kast.or.kr">the Korean Academy of Science and Technology</a>, Nov. 2006</LI>
+
+<LI>
+Science and Technology Excellent Paper Award, <a href="http://www.kofst.or.kr/">Korean Federation of Science and Technology Societies</a>, May 2005
+</LI>
+
+<LI>
+Best Demonstration Award: <a href="http://icde2005.is.tsukuba.ac.jp/">IEEE Int'l Conf. on Data Engineering (ICDE)</a>, Tokyo, Japan, Apr. 2005
+</LI>
+ 	
+<LI>The 2003 KAIST Professor of the Year Award, KAIST, Jan. 2004</LI>
+
+<LI>Member, <a href="http://www.naek.or.kr">the National Academy of Engineering of Korea</a>, Jan. 2002-present</LI>
+<LI>Member, <a href="http://www.kast.or.kr">the Korean Academy of Science and Technology</a>, Nov. 2001-present</LI>
+
+<LI>
+Academic Excellence Award, Korea Information Science Society, Apr. 2002
+</LI>
+<LI>
+Kahun Academic Excellence Award, Korea Information Science Society, Oct. 2001
+</LI>
+<LI>
+100 Innovative Technologies of the 20th centry Award, <a
+href="http://www.most.go.kr">Ministry of Science and Technology</a>/<a
+href="http://www.hk.co.kr/sk.htm">Seoul Economy Daily</a>, Dec. 1999</LI>
+
+<LI>
+Information and Culture Innovative Technology Award,
+Prime Minister of Republic of Korea/<a
+href="http://www.mic.go.kr">Ministry of Information and
+Communications</a>, June 1999</LI>
+
+<LI>
+Scientist of the Month Award, <A HREF="http://www.most.go.kr">Ministry of Science
+and Technology</A>, May 1998</LI>
+
+<LI>
+Recognition of Contributions, <A HREF="kiss.or.kr">Korea Information Science
+Society</A>, 1993, 1994, 1996, 1998, 2001</LI>
+
+<LI>
+Biographed in the Marquis' Who's Who in the World (from the 11th Edition)</LI>
+
+<LI>
+Biographed in the Marquis' Who's Who in Science &amp; Engineering</LI>
+
+<LI>
+Best Paper Award, <a href="http://www.informatik.uni-trier.de/~ley/db/conf/icde/icde90.html">IEEE 6th Int'l Conf. on Data Engineering (ICDE)</a>, LA, 1990</LI>
+
+<LI>
+IBM External Honor Recognition, 1989, 1990</LI>
+
+<LI>
+IEEE Distinguished Visitor, 1989-1990</LI>
+
+<LI>
+Senior Member, IEEE, 1988</LI>
+
+<LI>
+Certificate of Appreciation, <A HREF="http://www.ieee.org">IEEE Computer
+Society</A>, 1989, 1990, 1992, 1997, 2005, 2006</LI>
+
+<LI>
+Inchon Memorial Fellowship, 1970-1973</LI>
+
+<LI>
+Awarded the University President's Prize for being the first from the top
+in the graduating class of the engineering college, Seoul National University,
+Feb. 1973</LI>
+
+<LI>
+Graduated Summa Cum Laude from Seoul National University, Feb. 1973</LI>
+
+<LI>
+Graduate Fellowship from Rotary Foundation, 1978-1979</LI>
+</UL>
+&nbsp;
+
+<P><A NAME="Activities"></A>
+<H3>
+<IMG SRC="gifs/purpleball.gif" > <FONT FACE="Book Antiqua"><FONT SIZE=+2>Professional Activities (Selected)&nbsp;&nbsp;&nbsp;</FONT></FONT> <FONT FACE="Book Antiqua"><FONT SIZE=+0><A HREF="ProActivity_eng.html">Full
+List</A></FONT></FONT></H3>
+
+<H3>
+<B><FONT FACE="Book Antiqua"><FONT SIZE=+1><FONT COLOR="#400080">&nbsp;&nbsp;&nbsp;
+</FONT><FONT COLOR="#663300">International</FONT></FONT></FONT></B></H3>
+
+<UL>
+<li>
+Editor-in-Chief: <a href="http://link.springer.de/journals/vldb/">The VLDB Journal</a>, 2003-2009 (Coordinating EIC: 2007-2009)
+</li>
+
+<LI>
+Trustee: <A HREF="http://www.vldb.org">The VLDB Endowment</A>, 1998-2004 (reelected from 2010)
+</LI>
+
+<LI>
+Chair: IEEE ICDE 2006 Best Paper Award Committee, 2006
+</LI>
+
+<LI>
+Member: <a href="http://www.vldb2005.org">VLDB 2005</a> Best Paper Award Committee, 2005
+</LI>
+
+<LI>
+Member: <a href="http://aitrc.kaist.ac.kr/~vldb06/">VLDB 2006</a> Ten-Year Best Paper Award Committee, 2006
+</LI>
+
+<LI>
+Member: <a href="http://www.vldb2005.org">VLDB 2005</a> Ten-Year Best Paper Award Committee, 2005
+</LI>
+
+<LI>
+Member: <a href="http://www.vldb.informatik.hu-berlin.de">VLDB 2003</a> Ten-Year Best Paper Award Committee, 2003
+</LI>
+
+<LI>
+Member: ACM SIGMOD Dissertation Award Committee, 2008-present
+</LI>
+
+<LI>
+Member: ACM SIGMOD Nominating Committee, 2008-2009
+</LI>
+
+<LI>
+Member: IEEE ICDE (Influential Paper) Awards Committee, 2004-present
+</LI>
+
+
+<LI>
+Member: DASFAA 2005 Best Paper Award Committee, 2005
+</LI>
+
+
+<LI>
+Chair: Steering Committee, International Conference on Database Systems for Advanced Applications (DASFAA), 2007-present
+</LI>
+
+<LI>
+Steering Committee Member: International Conference on Data Engineering (ICDE), 2007-present
+</LI>
+
+<LI>
+Steering Committee Member: International Conference on Database Systems for Advanced Applications (DASFAA), 1999-2005 (2004-2005 Secretary, 2005-2007 Vice Chair)
+</LI>
+
+<LI>
+Steering Committee Member: Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2003-present
+</LI>
+
+<LI>
+Associate Editor: <a href="http://www.ieee.org/organizations/pubs/transactions/tkde.htm">IEEE Transactions on Knowledge and Data Engineering</a>, 2002-2005
+</LI>
+
+<LI>
+Associate Editor: <A HREF="http://link.springer.de/journals/vldb/">The VLDB Journal</A>, 1990-2003
+</LI>
+
+<LI>
+Associate Editor: <A HREF="http://kapis.www.wkap.nl/kapis/CGI-BIN/WORLD/jrnltoc.htm?0926-8782">Distributed
+and Parallel Databases: An International Journal</A>, 1991-1995</LI>
+
+<LI>
+Associate Editor: <A HREF="http://www.tandf.co.uk/journals/tf/13658816.html">International
+Journal of Geographical Information Science</A>, 1994-2007</LI>
+
+<LI>
+Associate Editor: The World Wide Web Journal, 2002-present
+</LI>
+
+<LI>
+Associate Editor: The IEEE Data Engineering Bulletin, 1990-1993</LI>
+
+<li>
+General Chair: the 32nd International Conference on Very Large Data Bases (VLDB 2006), Seoul, Korea, 2006
+</li>
+
+<li>
+General Chair: the 9th International Conference on Database Systems for Advanced Applications (DASFAA-2004), 2004
+</li>
+
+<li>
+General Chair: the 7th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-2003), 2003
+</li>
+
+<LI>
+Program Chair (Asia, Pacific, and Australia): <A HREF="http://www.vldb.org/index.html">International Conference on Very Large Data Bases</A> (VLDB), Cairo, Egypt, 2000</LI>
+
+<LI>
+Program Chair (Asia and Pacific Rim): IFCIS International Conference on
+Cooperative Information Systems (<A HREF="http://www.kean.edu/~mhalper/coopis98.html">CoopIS'98</A>),
+New York, Aug. 20-22, 1998</LI>
+
+<LI>
+Conference Co-chair: Far East Workshop on Geographic Information Systems,
+Singapore, 1993</LI>
+
+<LI>
+Program Vice Chair: IEEE International Conference on Data Engineering,
+'90-'92, '95, 2003
+</LI>
+
+<LI>
+Program Co-chair: IEEE International Conference on Data Engineering,
+'89, 2006
+</LI>
+
+<LI>
+<!-- Conference Program Committee Member: <A HREF="http://bunny.cs.uiuc.edu/">ACM
+SIGMOD</A> '85,'87, 2001; ICDE '86-'88, '93; FODO '89, '93, '98;
+<A HREF="http://www.vldb.org/index.html">VLDB</A>
+'91-'93, '95-'99, 2002, 2003; DOOD '91,'93, '95; RIDE '92; ACM SIGAPP '92; Multimedia
+Info. Sys. '92; IFIP DS '92, '95; SSD '93, '99; SSTD 2001; ER '93, '95, '98, 2000, 2001, 2002;
+ADB '94; IFIP VDB '95, 2000; CIKM '96, '99, 2002; ACM-GIS '96, '97, 2000;
+IFCIS CoopIS '97, 2000, 2001, 2002; DASFAA '95, '97, '99, 2001; MMM '97, '98;
+CODAS '99; COMAD 2000; WASA 2000; WAIM 2000, 2001; KDMS 2000; IDS 2000; WISE 2000; DOLAP 2000, 2001; 
+IDEAS 2002; ISDB 2002; PAKDD 2002
+-->
+
+<!--
+Conference Program Committee Member: 
+ACM SIGMOD '85, '87, 2001, 2004; IEEE Int'l Conf. On Data Engineering '86, '87, '88, '93, 2002; FODO '89, '93, '98; VLDB '91, '92, '93, '95, '96, '97, '98, '99, 2002, 2003; DOOD '91, '93, '95; RIDE '92; ACM SIGAPP '92; Multimedia Inf. Sys. '92; IFIP DS-5 '92; SSD '93, '99; SSTD 2001, 2003; ER Conf. '93, '95, '98, 2000, 2001, 2002, 2003; ADB '94; IFIP VDB-3 '95, 2000; IFIP DS-6 '95; CIKM '96, ' 99, 2002; ACM-GIS '96, '97; IFCIS CoopIS '97, 2000, 2001, 2002, 2003, 2004; DASFAA '95, '97, '99, 2001, 2003, 2005; MMM '97, '98, '99, 2004, 2005; CODAS '99; COMAD 2000; WASA 2000; WAIM 2000, 2001; KDMS 2000; IDS 2000; WISE 2000, 2002, 2003; DOLAP 2000, 2001, 2002; IDEAS 2002; ISDB 2002; PAKDD 2002, 2004; DEXA 2003; EDBT 2004; ICWS 2004
+-->
+
+Conference Program Committee Member: 
+ACM SIGMOD '85, '87, 2001, 2004, 2007, 2009; IEEE Int'l Conf. On Data Engineering '86, '87, '88, '93, 2002, 2007, 2008; FODO '89, '93, '98; VLDB '91, '92, '93, '95, '96, '97, '98, '99, 2002, 2003, 2005, 2007; DOOD '91, '93, '95; RIDE '92; ACM SIGAPP '92; Multimedia Inf. Sys. '92; IFIP DS-5 '92; SSD '93, '99; ER Conf. '93, '95, '98, 2000, 2001, 2002, 2003; ADB '94; ADTI '94; COMAD '94, 2000; DKSME '94; DASFAA '95, '97, '99, 2001, 2003, 2005, 2006, 2007; IFIP VDB-3 '95; IFIP DS-6 '95, '98; CIKM '96, '99, 2002, 2005; ACM-GIS '96, '97; IFCIS CoopIS '97, 2000, 2001, 2002, 2003, 2004, 2005, 2007; MMM '97, '98, '99, 2004, 2005; DOLAP '98, 2000, 2001, 2002; CODAS '99; ICSC '99; IFIP VDB-5 2000; WASA 2000; WAIM 2000, 2001; KDMS 2000; IDS 2000; WISE 2000, 2002, 2003; SSTD 2001, 2003, 2007; IDEAS 2002; ISDB 2002; PAKDD 2001, 2002, 2004, 2005, 2007; DEXA 2003, 2004, 2005; EDBT 2004, 2006, 2008; ICWS 2004; ENASE 2006; IDAR 2007
+
+</LI> 
+
+</UL>
+
+<H3>
+<B><FONT FACE="Book Antiqua"><FONT SIZE=+1><FONT COLOR="#400080">&nbsp;&nbsp;&nbsp;
+</FONT><FONT COLOR="#663300">Domestic</FONT></FONT></FONT></B></H3>
+
+<UL>
+
+<LI>
+President: <A HREF="http://kiss.or.kr">Korea Information Science Society</A>,
+2007
+</LI>
+
+
+<LI>
+President Elect: <A HREF="http://kiss.or.kr">Korea Information Science Society</A>,
+2006
+</LI>
+
+<LI>
+Vice President: <A HREF="http://kiss.or.kr">Korea Information Science Society</A>,
+1999-2000
+</LI>
+
+<LI>
+Board of Directors: <A HREF="http://kiss.or.kr">Korea Information Science Society</A>,
+1995, 1997-1998</LI>
+
+<LI>
+President, KAIST Alumni Association, 1996-1998</LI>
+
+<LI>
+Chairman of Board, Suk-Lim Endowment, 2001-2005</LI>
+
+<LI>
+Editor-in-Chief: Journal of Korea Information Science Society, 1995</LI>
+
+<LI>
+Editor-in-Chief: Journal of Electrical Engineering and Information Science,
+1998</LI>
+
+<LI>
+Chairman, Special Interest Group on Databases(SIGDB), Korea Information
+Science Society, 1992-1994</LI>
+
+<LI>
+Conference Program Chair: 18th Fall Biannual Conference of Korea Information
+Science Society, 1991</LI>
+
+<LI>
+Chairman, Database Section, Telecommunications Advancement Council, Ministry
+of Communications, Korea, 1993-1994</LI>
+</UL>
+&nbsp;
+
+<P><A NAME="Publication"></A>
+<H3>
+<IMG SRC="gifs/purpleball.gif" > <FONT FACE="Book Antiqua"><FONT SIZE=+2>Publications
+</FONT></FONT></H3>
+<B><FONT FACE="Book Antiqua"><FONT SIZE=+1><FONT COLOR="#400080">&nbsp;&nbsp;&nbsp;
+</FONT><FONT COLOR="#663300"><a href="http://www.informatik.uni-trier.de/~ley/db/indices/a-tree/w/Whang:Kyu=Young.html"><u><FONT COLOR="#663300">DBLP</FONT></u></a></FONT></FONT></FONT></B>
+<P>
+<B><FONT FACE="Book Antiqua"><FONT SIZE=+1><FONT COLOR="#400080">&nbsp;&nbsp;&nbsp;
+</FONT><FONT COLOR="#663300">Journal or Conference Publications (Selected)</FONT></FONT></FONT></B>
+
+<!-- ************************ Journal or Conference Publications list ********************* -->
+
+<UL>
+<?php include 'main_paper_selected.html'; ?>
+
+</UL>
+
+<!--------------------------------------- Others ------------------------------------------->
+<B><FONT FACE="Book Antiqua"><FONT SIZE=+1><FONT COLOR="#400080">&nbsp;&nbsp;&nbsp;
+</FONT><FONT COLOR="#663300">Others</FONT></FONT></FONT></B>
+
+<UL>
+
+<li>
+Dayal, U., <u>Whang, K.</u>, Lomet, D. B., Alonso, G., Lohman, G. M., Kersten, M. L., Cha, S., and Kim, Y. (Editors), 
+<i>Proceedings of the 32nd International Conference on Very Large Data Bases (VLDB 2006)</i>, Seoul, Korea, Sept. 12-15, 2006.
+</li>
+
+<li>
+Liu, L., Reuter, A., <u>Whang, K.</u>, and Zhang, J. (Editors), 
+<i>Proceedings of the 22nd International Conference on Data Engineering (ICDE 2006)</i>, 
+Atlanta, GA, USA, Apr. 2006.
+</li>
+
+<li>
+Lee, Y., Li, J., <u>Whang, K.</u>, and Lee, D. (Editors), 
+<i>Proceedings of the Ninth Database Systems for Advances Applications (DASFAA 2004)</i>, 
+Jeju Island, Korea, Mar. 2004.
+</li>
+
+<LI>
+<U>Whang, K.</U>, Jeon, J., Shim, K., and Srivastava, J. (Editors), 
+<i>Proceedings of the Seventh Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2003)</i> , 
+Seoul, Korea, May 2003.
+</LI>
+
+<LI>
+<U>Whang, K. </U>(Editor), Special Issue on Geographical Information Systems,
+<I>IEEE Data Engineering Bulletin</I>, Vol. 16, No. 3, Sept. 1993.
+</LI>
+
+<LI>
+<U>Whang, K.</U> (Editor), Special Issue on Multimedia Information Systems,
+<I>IEEE Data Engineering Bulletin</I>, Vol. 14, No. 3, Sept. 1991.
+</LI>
+
+</UL>
+
+
+
+
+&nbsp;
+<P><A NAME="Talks"></A>
+<H3>
+<IMG SRC="gifs/purpleball.gif" > <FONT FACE="Book Antiqua"><FONT SIZE=+2>
+Invited Talks
+</FONT></FONT>&nbsp;&nbsp;&nbsp;&nbsp; 
+<FONT FACE="Book Antiqua"><FONT SIZE=+0><A HREF="Talks_eng.html">
+Full List
+</A></FONT></FONT></H3>
+
+
+&nbsp;
+<P><A NAME="Projects"></A>
+<H3>
+<IMG SRC="gifs/purpleball.gif" > <FONT FACE="Book Antiqua"><FONT SIZE=+2>Major
+Projects</FONT></FONT>&nbsp;&nbsp;&nbsp;&nbsp; <FONT FACE="Book Antiqua"><FONT SIZE=+0><A HREF="Projects_eng.html">Full
+List</A></FONT></FONT></H3>
+
+<UL>
+
+<LI>
+Microsoft, "Answering Top-k Queries Using a Partitioned Layer Index," 
+2008.2 - 2009.2. 
+</LI>
+
+
+<LI>
+<A HREF="http://www.kosef.re.kr/index.html">Korea Science and Engineering Foundation(KOSEF)</a>, "Ubiquitous Database Engines," National Research Laboratory(NRL), 2007.7 - 2012.6.
+</LI>
+
+
+<LI>
+<a href="http://aitrc.kaist.ac.kr/">Advanced Information Technology Research
+Center(AITrc)</a> -- an Engineering Research Center(ERC) of Excellence Supported
+by <a href="http://www.kosef.re.kr/">Korea Science and Engineering Foundation(KOSEF)
+</a>, 1999 - 2008.</LI>
+
+<LI>
+Distributed Multi-DBMSs(ODYSSEUS), <a href="http://aitrc.kaist.ac.kr/">AITrc</a>
+, 1999 - 2008.</LI>
+
+<LI>
+Development of Web-DBMS Integration Technology for a Web-Based OODBMS
+Tightly-Coupled with Information Retrieval, <a href="http://www.most.go.kr/">
+Ministry of Science and Technology</a>, 1998.12 - 2000.9.</LI>
+
+<LI>
+Development of a Hypermedia System Tightly Coupled with a DBMS and Development of
+a Digital Library Search Engine, <A HREF="http://www.kosef.re.kr/index.html">Korea
+Science and Engineering Foundation(KOSEF)</A>, 1998.10 - 1999.9.</LI>
+
+<LI>
+Technology Development Planning for Fundamental and Applied Software Technology,
+<a href="http://www.most.go.kr/">Ministry of Science and Technology</a>,
+1998.9 - 1999.5.</LI>
+
+<LI>
+NaverCom, "Engineering of Odysseus/COSMOS-IR/S for the Web Search Engine, Naver I, II, III, IV, V, VI," 1997. 5 - 2000. 8 
+</LI>
+
+<LI>
+Multimedia Information Server Software Platform Development(KMEDIA),
+<A HREF="http://www.kosef.re.kr/index.html">Korea Science and Engineering
+Foundation(KOSEF)</A>, Mar. 1992 - Feb. 1999.</LI>
+
+<LI>
+Development of a Multi-User Object-Oriented Database System on UNIX,
+Korea Computer Communications Co./Ministry of Communications, Feb. 1993 - July
+1995.</LI>
+
+<LI>
+Development of a General-Purpose Multiuser Object-Storage System with Efficient
+Support for Variable-Length Attributes (KAOSS), <A HREF="http://www.kt.co.kr/">
+Korea Telecom</A>, Jan. 1993 - Dec. 1997.</LI>
+
+<LI>
+The National GIS Spatial Object Storage System (GeoStore),
+<a href="http://www.most.go.kr/">Ministry of Science and Technology</a>,
+Dec. 1995 - Nov. 1998.</LI>
+
+<LI>
+Development of a Main Memory Database Storage System with Efficient Support
+for Mobile Communications and Real-Time Applications,
+<A HREF="http://www.hei.co.kr/">Hyundai Electronics Co.</A>,
+Nov. 1995 - Oct. 1997.</LI>
+</UL>
+&nbsp;
+
+<?php
+/*
+<P><A NAME="Projects"></A>
+<H3>
+<IMG SRC="gifs/purpleball.gif" > <FONT FACE="Book Antiqua"><FONT SIZE=+2>Practicalizations</FONT></FONT>&nbsp;&nbsp;&nbsp;&nbsp; <FONT FACE="Book Antiqua"><FONT SIZE=+0><A HREF="Practical_eng.html">Full
+List</A></FONT></FONT></H3>
+
+<!--
+<UL>
+<LI>
+<a href="http://aitrc.kaist.ac.kr/">Advanced Information Technology Research
+Center(AITrc)</a> -- an Engineering Research Center(ERC) of Excellence Supported
+by <a href="http://www.kosef.re.kr/">Korea Science and Engineering Foundation(KOSEF)
+</a>, 1999 - 2008.</LI>
+</UL>
+&nbsp;
+-->
+*/?>
+<CENTER>[ <A HREF="ProActivity_eng.html">Activities </A>|| <A HREF="Projects_eng.html">Projects
+</A>]</CENTER>
+
+
+<P>
+<HR>
+<TABLE WIDTH="600">
+<TR>
+<TD ALIGN=LEFT VALIGN=BOTTOM><FONT SIZE=-1>Please send any suggestion or
+comments for this page to <A HREF="mailto:webmaster@mozart.kaist.ac.kr">webmaster@dblab.kaist.ac.kr</A></FONT>&nbsp;
+<BR><FONT SIZE=-1>Last updated Feb. 10th, 2010</FONT></TD>
+
+<TD VALIGN=CENTER><A HREF="main_kor.html"><IMG SRC="gifs/hangul.gif" ALT="KOREAN" BORDER=0 ></A>&nbsp;</TD>
+
+<TD ALIGN=RIGHT><A HREF="../index.html"><IMG SRC="gifs/home.gif" ALT="DB & MM" BORDER=0 ></A>&nbsp;</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>
+<? 
+// Counter
+$fp = fopen("counter.txt", "r"); 
+$counter = fgets($fp);
+$counter = $counter + 1;  
+fputs($fp,"$counter");
+$fp = fopen("counter.txt", "w");
+fputs($fp,"$counter");
+fclose($fp);
+
+// Log
+$fp1 = fopen("access_ip.txt", "a"); 
+$ip = "IP: ".$_SERVER[REMOTE_ADDR].", LANGUAGE TYPE: ".$_SERVER[HTTP_ACCEPT_LANGUAGE].", ";
+//$ip = $_SERVER[REMOTE_ADDR]."\n";
+fputs($fp1, $ip);
+$today = date("M j, Y\n"); 
+fputs ($fp1, $today);
+fclose($fp1);
+?>

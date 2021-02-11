@@ -1,0 +1,69 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
+   <meta name="Author" content="Minjae Lee">
+   <meta name="GENERATOR" content="Mozilla/4.51 [en] (Win98; I) [Netscape]">
+   <title>GEOSS : Geographical Object Storage Systems for GIS</title>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#0000EE" vlink="#551A8B" alink="#FF0000">
+
+<CENTER>
+<H1><img src="images\new_digital_kor_htm_smartbutton1.gif" namo_npi=":EmbededNPI1" width="315" height="75" border="0"></H1></CENTER><hr WIDTH="100%">
+<br>　
+<center><table BORDER=0 CELLSPACING=4 CELLPADDING=20 WIDTH="79%" BACKGROUND="gifs/background.gif" >
+<tr VALIGN=TOP>
+<td>
+
+
+전자도서관은 소장 정보를 디지털화 하여 저장하고, 이를 효율적으로 검색하고 액세스할 
+                수 있는 기능을 제공하는 첨단 도서관 시스템이다. 이러한 전자도서관 
+                시스템의 핵심부품은 DBMS이다. 즉, 다양한 형태의 정보를 저장할 
+                수 있고, 효율적인 관리를 제공하면서 빠른 검색을 제공하여야만 
+                전자도서관 시스템이 운영될 수 있다. 이러한 관점에서 전자도서관 
+                시스템의 엔진으로는 본 연구실에서 개발한 오디세우스가 최적의 
+                시스템이라는 결론을 얻을 수 있다. 오디세우스는 DBMS 엔진과 정보 
+                검색 엔진을 밀결합하여 빠른 텍스트 정보 검색 속도를 제공할 뿐만 
+                아니라, 복수 개의 검색 필드에 대한 검색 기능을 제공한다. 또한, 
+                전자도서관을 위한 표준 프로토콜인 Z39.50 프로토콜을 지원하는 
+                오디세우스 Z39.50 서버가 개발 완료되어 있다. 현재 오디세우스를 
+                사용한 전자도서관 서비스 시스템 구축이 여러 군데 진행되고 있으며, 
+                이미 여러 곳에 설치된 오디세우스 전자도서관 시스템을 사용할 
+                수 있다. 
+                <p><span style="font-family:바탕; font-size:12pt;"><font face="굴림체">오디세우스를 
+                사용하고 있는 전자도서관 시스템은 아래와 같다. </span></font></p>
+                <ul>
+                    <li>한국과학기술원 과학도서관의 전자도서관 (<a href="http://library.kaist.ac.kr)">http://library.kaist.ac.kr</a>)</li>
+                    <li>(주)네오위즈의 SayClub 게시판 동호회 검색 시스템 (http://finder.sayclub.com/finder_club.nwz)</li>
+                    <li>기초과학지원연구소의 학술지초록검색시스템 </li>
+                    <li>수리과학정보센터의 논문검색시스템 (<a href="http://icms.kaist.ac.kr/index.html)">http://icms.kaist.ac.kr/index.html</a>)</li>
+                    <li>대검찰청 법무검찰 종합자료검색시스템</li>
+                    <li>한국인삼연초연구원의 연구정보 데이터베이스 시스템</li>
+                </ul>
+</td>
+</tr>
+</table></center>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp;
+<hr WIDTH="100%">
+<center>[ <a href="../Intro/main_kor.html">연구실 소개</a> || <a href="main_kor.html">연구분야
+및 과제</a> || <a href="../Publication/main_kor.html">발표논문 </a>|| <a href="../Members/main_kor.html">구성원
+소개 </a>|| <a href="../Other/main_kor.html">기타 </a>]</center>
+
+<hr WIDTH="100%">
+<table WIDTH="600" >
+<tr>
+<td ALIGN=LEFT VALIGN=BOTTOM><font face="바탕체"><font size=-1>제안이나
+요구 사항은 <a href="mailto:webmaster@mozart.kaist.ac.kr">webmaster@dblab.kaist.ac.kr</a>로</font></font>
+<br><font face="바탕체"><font size=-1>보내주시기 바랍니다.</font></font>
+<br><font face="바탕체"><font size=-1>최종수정일: 2001년 2월5일</font></font></td>
+
+<td VALIGN=CENTER><a href="new_digital_eng.htm"><img SRC="gifs/english.gif" ALT="KOREAN" BORDER=0 height=58 width=58></a><a href="main_kor.html">　</a></td>
+
+<td ALIGN=RIGHT><a href="../index.html"><img SRC="gifs/home.gif" ALT="DB & MM" BORDER=0 height=31 width=116></a>　</td>
+</tr>
+</table>
+
+<hr WIDTH="100%">
+</body>
+
+</html>

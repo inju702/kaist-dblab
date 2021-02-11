@@ -1,0 +1,654 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
+   <title> 황규영 교수 </title>
+</head>
+<body background="gifs/background.gif">
+
+<h1>
+<font face="바탕체">황규영 교수</font></h1>
+
+<table WIDTH="84%" >
+<tr>
+<td><img SRC="kywhang.jpg" HSPACE=30 ></td>
+
+<td>사무실:&nbsp;
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 305-701 대전광역시 유성구 구성동 373-1&nbsp;
+<br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.kaist.ac.kr">한국과학기술원</a><a href="http://cs.kaist.ac.kr">전산학과</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://dblab.kaist.ac.kr">데이타베이스
+및 멀티미디어 연구실</a>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; 전화: 042-869-3522&nbsp;
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 팩스: 042-869-3510&nbsp;
+<br>&nbsp;&nbsp;&nbsp;&nbsp; E-mail : <a href="mailto:kywhang@mozart.kaist.ac.kr">kywhang@cs.kaist.ac.kr</a></td>
+</tr>
+</table>
+
+<hr>
+<center>[ <a href="#Education">학력 </a>|| <a href="#Experience">경력
+</a>||
+<a href="#Interests">관심
+분야</A>||
+<a href="#Courses">강의</a> ]
+
+
+<br>[ <a href="#Honors">수상 경력
+</a>||
+<a href="#Activities">학술 활동
+</a>||
+<a href="#Publication">논문
+</a>||
+<a href="#Projects">연구과제
+</a>]</center>
+
+
+<h3>
+<a NAME="Education"></a><img SRC="gifs/purpleball.gif" > 학력</h3>
+
+<table WIDTH="710" >
+<tr>
+<td VALIGN=TOP width="58">1983</td>
+
+<td VALIGN=TOP width="63">Ph.D.</td>
+
+<td VALIGN=TOP width="575"><a href="http://cs.stanford.edu">스탠포드 대학</a>, <a href="http://csl.stanford.edu">CSL</a></td>
+</tr>
+
+<tr>
+<td VALIGN=TOP width="58">1982</td>
+
+<td VALIGN=TOP width="63">M.S.</td>
+
+<td VALIGN=TOP width="575"><a href="http://cs.stanford.edu">스탠포드 대학</a>, <a href="http://csl.stanford.edu">CSL</a></td>
+</tr>
+
+<tr>
+<td VALIGN=TOP width="58">1975</td>
+
+<td VALIGN=TOP width="63">M.S.</td>
+
+<td VALIGN=TOP width="575"><a href="http://www.kaist.ac.kr">한국과학기술원</a><a href="http://www-ee.kaist.ac.kr">전기
+및 전자학과</a></td>
+</tr>
+
+<tr>
+<td VALIGN=TOP width="58">1973</td>
+
+<td VALIGN=TOP width="63">B.S.</td>
+
+<td VALIGN=TOP width="575"><a href="http://www.snu.ac.kr">서울대학교</a><a href="http://www-ee.snu.ac.kr">공과대학
+전자공학과</a></td>
+</tr>
+</table>
+<br><a NAME="Experience"></a>
+<h3>
+<img SRC="gifs/purpleball.gif" > 경력</h3>
+
+<table WIDTH="93%" >
+<tr>
+<td VALIGN=TOP WIDTH="125">1990 - 현재&nbsp;</td>
+
+<td VALIGN=TOP><a href="http://www.kaist.ac.kr">한국과학기술원</a><a href="http://cs.kaist.ac.kr">전산학과</a>
+교수</td>
+</tr>
+
+<tr>
+<td VALIGN=TOP WIDTH="125">1999 - 현재&nbsp;</td>
+
+<td VALIGN=TOP><a href="http://aitrc.kaist.ac.kr">첨단정보기술연구센터</a>
+(<a href="http://www.kosef.re.kr/">한국과학재단(KOSEF)</a>/<a
+href="http://www.most.go.kr/">과학기술부</a> 우수연구센터) 소장
+</td>
+</tr>
+
+<tr>
+<td>1998 - 1999</td>
+
+<td><a href="http://www.kaist.ac.kr">한국과학기술원</a>
+<a href="http://libr0.kaist.ac.kr">종합정보본부장
+겸 과학도서관장</a></td>
+</tr>
+
+<tr>
+<td VALIGN=TOP>1995 - 1997</td>
+
+<td VALIGN=TOP><a href="http://www.kaist.ac.kr">한국과학기술원</a><a href="http://cs.kaist.ac.kr">전산학과</a>
+학과장</td>
+</tr>
+
+<tr>
+<td VALIGN=TOP>1983 - 1990</td>
+
+<td VALIGN=TOP>Research Staff Member at <a href="http://www.ibm.com">IBM</a>
+T.J. Watson Research Center</td>
+</tr>
+
+<tr>
+<td VALIGN=TOP>1975 - 1978</td>
+
+<td VALIGN=TOP>국방과학연구소, 선임 연구원</td>
+</tr>
+</table>
+
+<p><a NAME="Interests"></a>
+<h3>
+<img SRC="gifs/purpleball.gif" > 관심 분야</h3>
+
+<ul>
+<li>
+데이타베이스 시스템 / 저장 시스템</li>
+
+<li>
+객체지향 데이타베이스</li>
+
+<li>
+멀티미디어&nbsp; / 하이퍼미디어 데이타베이스</li>
+
+<li>
+지리 정보 시스템(Geographic Information Systems)</li>
+
+<li>
+분산 및 클라이언트/서버 기술</li>
+
+<li>
+데이타 마이닝, 데이타 웨어하우스</li>
+
+<li>
+전자 도서관 (Digital Libraries)</li>
+    <li>전자 상거래 (Electronic Commerce)</li>
+</ul>
+
+
+<P><A NAME="Courses"></A>
+<H3>
+<IMG SRC="gifs/purpleball.gif" > 강의</H3>
+
+<UL>
+
+<LI><FONT FACE="Times New Roman,Times">
+2000년 가을 CS664 고급 데이터베이스 시스템</FONT></LI>
+
+    <li><FONT FACE="Times New Roman,Times">2000년 봄&nbsp;&nbsp;&nbsp;:
+<A HREF="../Course/rep-cs206.html">CS206 데이타구조</A>
+</FONT></li>
+<LI><FONT FACE="Times New Roman,Times">
+1999년 가을:
+<A HREF="../Course/rep-cs204.html">CS204 이산구조</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1999년 봄&nbsp;&nbsp;&nbsp;:
+<A HREF="../Course/rep-cs560.html">CS560 데이타베이스 시스템</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1998년 가을:
+<A HREF="../Course/rep-cs360.html">CS360 데이타베이스 개론</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1998년 봄&nbsp;&nbsp;&nbsp;:
+<A HREF="../Course/rep-cs204.html">CS204 이산구조</A>,
+<A HREF="../Course/rep-cs662.html">CS662 분산 데이타베이스</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1997년 가을:
+<A HREF="../Course/rep-cs664.html">CS664 고급 데이타베이스 시스템</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1997년 봄&nbsp;&nbsp;&nbsp;:
+<A HREF="../Course/rep-cs206.html">CS206 데이타구조</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1996년 가을:
+<A HREF="../Course/rep-cs206.html">CS206 데이타구조</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1996년 봄&nbsp;&nbsp;&nbsp;:
+<A HREF="../Course/rep-cs560.html">CS560 데이타베이스 시스템</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1995년 가을:
+<A HREF="../Course/rep-cs360.html">CS360 데이타베이스 개론</A>,
+<A HREF="../Course/rep-cs664.html">CS664 고급 데이타베이스 시스템</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1995년 봄&nbsp;&nbsp;&nbsp;:
+<A HREF="../Course/rep-cs204.html">CS204 이산구조</A>,
+<A HREF="../Course/rep-cs662.html">CS662 분산 데이타베이스</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1994년 가을:
+<A HREF="../Course/rep-cs562.html">CS562 데이타베이스 설계</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1994년 봄&nbsp;&nbsp;&nbsp;:
+<A HREF="../Course/rep-cs204.html">CS204 이산구조</A>,
+CS410 VLSI설계개론
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1993년 가을:
+<A HREF="../Course/rep-cs206.html">CS206 데이타구조</A>,
+<A HREF="../Course/rep-cs664.html">CS664 고급 데이타베이스 시스템</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1993년 봄&nbsp;&nbsp;&nbsp;:
+CS101 컴퓨터개론,
+<A HREF="../Course/rep-cs560.html">CS560 데이타베이스 시스템</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1992년 가을:
+<A HREF="../Course/rep-cs360.html">CS360 데이타베이스 개론</A>,
+<A HREF="../Course/rep-cs664.html">CS664 고급 데이타베이스 시스템</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1992년 봄&nbsp;&nbsp;&nbsp;:
+CS760 데이타베이스 특강
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1991년 가을:
+<A HREF="../Course/rep-cs664.html">CS664 고급 데이타베이스 시스템</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1991년 봄&nbsp;&nbsp;&nbsp;:
+CC510 전산응용개론,
+CS410 VLSI설계개론<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+CS760 데이타베이스 특강
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1990년 가을:
+<A HREF="../Course/rep-cs664.html">CS664 고급 데이타베이스 시스템</A>
+</FONT></LI>
+
+<LI><FONT FACE="Times New Roman,Times">
+1990년 봄&nbsp;&nbsp;&nbsp;:
+CS760 데이타베이스 특강
+</FONT></LI>
+
+</UL>
+
+<a NAME="Honors"></a>
+<h3>
+<img SRC="gifs/purpleball.gif" > 주요 수상 경력</h3>
+
+<ul>
+<li>
+20세기 한국의 100대 기술상, <a href="http://www.most.go.kr/">과학기술부</a>/<a
+href="http://www.hk.co.kr/sk.htm">서울경제신문</a>, 1999. 12</li>
+
+<li>
+정보문화상 기술상, <a href="http://www.mic.go.kr/">정보통신부</a>/<a
+href="http://www.icc.or.kr/">한국정보문화센터</a>, 1999</li>
+
+<li>
+이달의 과학기술자상,
+<a href="http://www.kosef.re.kr">한국과학재단</a>/<a
+href="http://www.most.go.kr/">과학기술부</a>,
+1998.5</li>
+
+<li>
+'97 멀티미디어인상 기술대상, 한국멀티미디어협회, 1997</li>
+
+<li>
+C&amp;C 올해의 정보통신 분야 10대 인물 선정, 전자신문사, 1995</li>
+
+<li>
+&quot;2000년대를 움직일 한국의 과학자: 컴퓨터 공학계 7인&quot; 신동아, 1991</li>
+
+<li>
+세계인명사전 Marquis Who's Who in the World (from the 11th Edition)에
+수록</li>
+
+<li>
+세계인명사전 Marquis Who's Who in Science &amp; Engineering에 수록</li>
+
+<li>
+<a href="http://kiss.or.kr">한국정보과학회</a> 공로패 수상, 1993, 1994,
+1996, 1998</li>
+
+<li>
+감사장, IEEE Computer Society, 1989, 1990, 1992, 1997</li>
+
+<li>
+최우수 논문상, 6th Int'l Conf. on Data Engineering, LA, 1990</li>
+
+<li>
+IBM External Honor Recognition, 1990, 1991</li>
+
+<li>
+IEEE Distinguished Visitor, 1989-1990</li>
+
+<li>
+Senior Member, IEEE, 1988</li>
+
+<li>
+Rotary Club 장학생, 1978-1979</li>
+
+<li>
+인촌장학회 장학생, 1970-1973</li>
+
+<li>
+서울 공대 수석졸업, 총장상 수상, 1973</li>
+</ul>
+<a NAME="Activities"></a>
+<h3>
+<img SRC="gifs/purpleball.gif" > 주요 학술 활동&nbsp;&nbsp;&nbsp; <font size=+0><a href="ProActivity_kor.html">전체목록</a></font></h3>
+<b><font size=+1><font face="굴림체"><font color="#000066">&nbsp; 
+</font></font><font face="Book Antiqua"><font color="#400080">국제
+활동</font></font></font></b>
+<ul>
+<li>
+Trustee: <a href="http://www.vldb.org">the VLDB Endowment </a>(VLDB 국제학술재단
+이사), 1998-2004</li>
+
+<li>
+Steering Committee Member : DASFAA 국제학술대회, 1999-2005</li>
+
+<li>
+Editor: <a href="http://link.springer.de/journals/vldb/">The VLDB Journal</a>,
+1990 - 현재</li>
+
+<li>
+Editor: <a href="http://kapis.www.wkap.nl/kapis/CGI-BIN/WORLD/jrnltoc.htm?0926-8782">Distributed
+and Parallel Databases: An International Journal</a>, 1991-1995</li>
+
+<li>
+Editor: <a href="http://www.tandf.co.uk/journals/tf/13658816.html">International
+Journal of Geographical Information Science</a>, 1994-현재</li>
+
+<li>
+Associate Editor: The IEEE Data Engineering Bulletin,1990-1993</li>
+
+<li>
+Program Chair (Asia, Pacific, and Australia) : <a href="http://www.vldb.org/index.html">International
+Conference on Very Large Data Bases</a> (VLDB), Cairo, Egypt, 2000</li>
+
+<li>
+Program Chair (Asia and Pacific Rim) : IFCIS International Conference on
+Cooperative Information Systems (<a href="http://www.kean.edu/~mhalper/coopis98.html">CoopIS'98</a>),
+New York, Aug. 20-22, 1998</li>
+
+<li>
+Conference Co-chair: Far East Workshop on Geographic Information Systems,
+Singapore, 1993</li>
+
+<li>
+Program Co-chair, Vice Chair: IEEE International Conference on Data Engineering,
+'89-'92, '95</li>
+
+<LI>
+Conference Program Committee Member: <A HREF="http://bunny.cs.uiuc.edu/">ACM
+SIGMOD</A> '85,'87, 2001; ICDE '86-'88, '93; FODO '89, '93, '98;
+<A HREF="http://www.vldb.org/index.html">VLDB</A>
+'91-'93, '95-'99; DOOD '91,'93, '95; RIDE '92; ACM SIGAPP '92; Multimedia
+Info. Sys. '92; IFIP DS '92, '95; SSD '93, '99; SSTD 2001; ER '93, '95, '98, 2000, 2001;
+ADB '94; IFIP VDB '95, 2000; CIKM '96, '99; ACM-GIS '96, '97, 2000;
+IFCIS CoopIS '97, 2000, 2001; DASFAA '95, '97, '99, 2001; MMM '97, '98;
+CODAS '99; COMAD 2000; WASA 2000; WAIM 2000, 2001; KDMS 2000; IDS 2000; WISE 2000; DOLAP 2000
+</LI> </UL>
+
+<b><font size=+1><font face="굴림체"><font color="#000066">&nbsp; 
+</font></font><font face="Book Antiqua"><font color="#400080">국내
+활동</font></font></font></b>
+<ul>
+<li>
+<a href="http://kiss.or.kr">한국정보과학회</a> 부회장, 1999 - 현재</li>
+
+<li>
+<a href="http://kiss.or.kr">한국정보과학회</a> 이사, 1995, 1997 - 1998</li>
+
+<li>
+<a href="http://kiss.or.kr">한국정보과학회</a> 논문지 편집 위원장, 1995</li>
+
+<li>
+7대 학회 연합 영문 논문지(Journal of Electrical Engineering and Information
+Science) 편집 위원장, 1998</li>
+
+<li>
+<a href="http://kiss.or.kr">한국정보과학회</a> 데이타베이스 연구회 운영위원장,
+1992-1994</li>
+
+<li>
+제 18회 한국정보과학회 정기총회 학술위원장, 1991</li>
+
+<li>
+정보통신부 통신 진흥협의회 데이타베이스 산업육성분과 위원장, 1993-1994</li>
+</ul>
+<a NAME="Publication"></a>
+<h3>
+<img SRC="gifs/purpleball.gif" > 주요 논문&nbsp;&nbsp;&nbsp; 
+<font size=+0><a href="../Publication/main_kor.html">전체목록</a></font></h3>
+&nbsp;&nbsp;&nbsp;&nbsp;<b><font face="Book Antiqua"><font color="#400080"><font size=+1>
+저널 및 학술대회 논문</font></font></font></b>
+
+<UL>
+<LI>
+Lee, S., <u>Whang, K.</u>, Moon, Y., and Song, I., "Dynamic Buffer Allocation in Video-on-Demand Systems," In <i>Proc. 2001 ACM SIGMOD International Conference</i>, Santa Barbara, California, May 21-24, 2001
+</LI>
+<LI>
+Moon, Y., <u>Whang, K.</u>, and Loh, W., &quot;Duality-Based Subsequence Matching 
+    in Time-Series Databases,&quot; In <i>Proc</i>. <i>IEEE 17th International 
+    Conference on Data Engineering(ICDE)</i>, Heidelberg, Germany (to appear), 
+    April 2001.</LI>
+
+    <li>Han, W., Moon, Y., <u>Whang, K.</u>, and Song, I., &quot;Prefetching 
+    Based on the Type-Level Access Pattern in Object-Relational DBMSs,&quot; 
+    In <i>Proc. IEEE 17th International Conference on Data Engineering(ICDE)</i>, 
+    Heidelberg, Germany (to appear), April 2001.</li>
+<LI>
+Moon, Y., <u>Whang, K.</u>, and Loh, W., &quot;Efficient Time-Subsequence Matching using Duality in Constructing Windows,&quot; <i>Information Systems</i> (to appear), 2001.
+</LI>
+    <li>Park, C., <u>Whang, K.</u>, Lee, J., and Song, I., &quot;A Cost-Based 
+    Buffer Replacement Algorithm for Object-Oriented Database Systems,&quot; 
+    <i>Information Sciences</i>(to appear), 2000.</li>
+    <li>Song, J., <u>Whang, K.</u>, Lee, Y., and Kim, S., &quot;<A
+HREF="../Publication/Ps/tkde99s.ps">Spatial Join Processing Using Corner
+Transformation</a>,&quot; <I><A HREF="http://www.computer.org:80/tkde/">IEEE
+Trans. on Knowledge and Data Engineering</A></I>, Aug. 1999.</li>
+<LI>
+Kim, W., <u>Whang, K.</u>, Lee, Y., and Kim, S., &quot;<A
+HREF="../Publication/Ps/infosci99k.ps">A Recovery Method Supporting
+User-Interactive Undo in Database Management
+Systems</a>,&quot; <I>Information Sciences</I>, Vol. 114, No. 1/4, pp. 237-253,
+Mar. 1999.</LI>
+
+<LI>
+Lee, J., Lee, Y., <U>Whang, K.</U>, and Song, I., &quot;<A
+HREF="../Publication/Ps/vldb97l.ps">A Region Splitting Strategy for Physical
+Database Design of Multidimensional File Organizations</a>,&quot;
+In<I> Proc. of the 23th Int'l Conf. on Very Large
+Data Bases</I>, pp. 416-425, Athens, Greece, Aug. 1997.</LI>
+
+<LI>
+Hong, K., Lee, Y., and <U>Whang, K.</U>, &quot;<A
+HREF="../Publication/Ps/info97h.ps">Dynamically Ordered Semi-Naive Evaluation
+of Recursive Queries</a>,&quot; <I>Information
+Sciences</I>, Vol. 96, No. 3/4, pp. 237-269, Feb. 1997.</LI>
+
+<LI>
+Cho, W., Park, C., <U>Whang, K.</U>, and Son, S., &quot;<A
+HREF="../Publication/Ps/info96c.ps">A New Method for Estimating the Number of
+Objects Satisfying an Object-Oriented Query Involving Partial Participation of
+Classes</a>,&quot; <I>Information Systems</I>, Vol. 21, No. 3, pp. 253-267,
+1996.</LI>
+
+<LI>
+<U>Whang, K.</U>, Song, J., Chang, J., Kim, J., Cho, W., and Song, I., &quot;<A
+HREF="../Publication/pdf/IEEE_TOVCG95_v1n4.pdf">
+Octree-R: An Adaptive Octree for Efficient Ray Tracing</A>,&quot; <I>IEEE Trans.
+on Visualization and Computer Graphics</I>, Vol. 1, No. 4, Dec. 1995.</LI>
+
+<LI>
+<U>Whang, K.</U>, Kim, S., and Wiederhold, G., &quot;<A
+HREF="../Publication/Ps/vldb94w.ps">Dynamic Maintenance of Data Distribution
+for Selectivity Estimation</a>,&quot; <I>The
+VLDB Journal</I>, Vol. 3, No. 1, pp. 29-51, Jan. 1994</LI>
+
+<LI>
+<U>Whang, K.</U> et al., &quot;<A
+HREF="../Publication/pdf/IEEE_TOSE92_v18n3.pdf">
+Two-Dimensional Specification of Universal Quantification
+in a Graphical Database Query Language</A>,&quot; <I>IEEE Trans. on Software Engineering</I>,
+Vol. 18, No. 3, pp. 216-224, Mar. 1992.</LI>
+
+<LI>
+<U>Whang, K.</U>, Vander-Zanden, B., and Taylor, H., &quot;<A
+HREF="../Publication/pdf/ACM90_TODS_v15n2.pdf">A Linear-Time Probabilistic
+Counting Algorithm for Database Applications</A>,&quot; <I>ACM Trans. on Database
+Systems</I>, Vol. 15, No.2, pp. 208-229, June 1990.</LI>
+
+<LI>
+<U>Whang, K.</U> and Krishnamurthy, R., &quot;<A
+HREF="../Publication/pdf/ACM90_TODS_v15n1.pdf">Query Optimization in a Memory-Resident
+Domain Relational Calculus Database System</A>,&quot; <I>ACM Trans. on Database
+Systems</I>, Vol. 15, No. 1, pp. 67-95, Mar. 1990.</LI>
+
+<LI>
+<U>Whang, K.</U> et al., &quot;<A
+HREF="../Publication/pdf/ACM87_TOOIS_v5n4.pdf">Office-by-Example: An Integrated Office System
+and Database Manager</A>,&quot; <I>ACM Transactions on Office Information Systems</I>,
+Vol. 5, No. 4, pp. 393-427, Oct. 1987.</LI>
+
+<LI>
+Astrahan, M., Schkolnick, M., and <U>Whang, K.</U>, &quot;Approximating the
+Number of Unique Values of an Attribute without Sorting,&quot; <I>Information
+Systems</I>, Vol. 12, No. 1, Pergamon Journals Ltd., pp. 11-15, 1987.</LI>
+
+<LI>
+<U>Whang, K.</U> and Navathe, S., &quot;<A
+HREF="../Publication/pdf/VLDB87_p275.pdf">An Extended Disjunctive Normal Form
+Approach for Optimizing Recursive Logic Queries in Loosely Coupled Environments</A>,&quot;
+In <I>Proc. 13th Int'l Conf. on Very Large Data Bases</I>, pp. 275-287,
+Brighton, England, Sept. 1987.</LI>
+
+<LI>
+<U>Whang, K.</U>, Wiederhold, G., and Sagalowicz, D., &quot;Separability--An
+Approach to Physical Database Design,&quot; <I>IEEE Trans.&nbsp; on Computers</I>,
+Vol. c-33, No.3, pp. 209-222, Mar. 1984.</LI>
+
+<LI>
+<U>Whang, K.</U>, Wiederhold, G., and Sagalowicz, D., &quot;Estimating Block
+Accesses in Database Organizations--A Closed Noniterative Formula,&quot; <I>Comm.
+of the ACM</I>, Vol. 26, No. 11, pp. 940-944, Nov. 1983.</LI>
+
+<LI>
+<U>Whang, K</U>., Wiederhold, G., and Sagalowicz, D., &quot;<A
+HREF="../Publication/pdf/VLDB82_p98.pdf">Physical Design
+of Network Model Databases Using the Property of Separability</A>,&quot; In <I>Proc.
+8th Int'l Conf. on Very Large Data Bases</I>, pp. 98-107, Mexico City,
+Mexico, Sept. 1982.</LI>
+</UL>
+
+
+<b><font face="Book Antiqua"><font color="#400080"><font size=+1>&nbsp;&nbsp;&nbsp;
+기타</font></font></font></b>
+
+<ul>
+<li>
+<u>Whang, K. </u>(Editor), Special Issue on Geographical Information Systems,
+<i>IEEE
+Data Engineering Bulletin</i>, Vol. 16, No. 3, Sept. 1993.</li>
+
+<li>
+<u>Whang, K.</u> (Editor), Special Issue on Multimedia Information Systems,
+<i>IEEE
+Data Engineering Bulletin</i>, Vol. 14, No. 3, Sept. 1991</li>
+</ul>
+<a NAME="Projects"></a>
+<h3>
+<img SRC="gifs/purpleball.gif" > 주요 연구과제&nbsp;&nbsp; 
+<font size=+0><a href="http://dblab.kaist.ac.kr/Prof/Projects_kor.html">전체목록</a></font></h3>
+
+<ul>
+<li>
+<a href="http://www.kosef.re.kr/">한국과학재단(KOSEF)</a>/<a href=
+"http://www.most.go.kr/">과학기술부</a>, &quot;<a
+href="http://aitrc.kaist.ac.kr">첨단정보기술연구센터</a>&quot;, 1999.7 - 2008.2</li>
+
+<li>분산 멀티 DBMS, <a href="http://aitrc.kaist.ac.kr">첨단정보기술연구센터</a>,
+1999.7 - 2008.2</li>
+
+<li>
+과학기술정책연구소, &quot;웹 기반 정보검색 OODBMS을 위한 Web-DBMS 통합 기술의 개발,&quot;
+1998. 12 - 2000.9</li>
+
+<li>
+<a href="http://www.kosef.re.kr/">과학재단</a>,
+&quot;DB 연동 하이퍼미디어시스템 및 도서검색시스템의 개발,&quot;
+1998. 10 - 1999. 9</li>
+
+<li>
+<a href="http://www.most.go.kr/">과학기술부</a>,
+&quot;S/W 기반 및 응용 기술 기획 사업,&quot;
+1998. 9 - 1999. 3</li>
+
+<li>
+OCI 정보통신, &quot;파손 회복 기능을 지원하는 주기억장치 데이타베이스 저장시스템에 관한 연구,&quot;
+1998. 3 - 1998. 12</li>
+
+<li>
+한국과학재단/인공지능연구센터, &quot;멀티미디어 정보 서버 S/W 플랫폼 개발(K-미디어),&quot;
+1992. 3 - 1999. 2</li>
+
+<li>
+한국 컴퓨터 통신 주식회사/정보통신부, &quot;UNIX용 다사용자 객체지향 데이타베이스
+시스템 개발,&quot; 1993. 2 - 1995. 7</li>
+
+<li>
+한국통신, &quot;가변길이 속성을 효율적으로 지원하는 다사용자용 다목적 객체 저장
+시스템(KAOSS)의 개발,&quot; 1993.1 - 1997.12</li>
+
+<li>
+과학기술처, &quot;국가 GIS 공간 객체 저장 시스템 개발,&quot; 1995.12 - 1998.11</li>
+
+<li>
+현대정보기술(주), &quot;이동통신 및 실시간 응용을 효율적으로 지원하는 주기억장치
+데이타베이스 저장 시스템에 관한 연구,&quot; 1995. 11. - 1998. 10</li>
+</ul>
+
+<center>
+<p><br>[ <a href="http://dblab.kaist.ac.kr/Prof/ProActivity_kor.html">학술활동
+</a>||
+<a href="http://dblab.kaist.ac.kr/Prof/Projects_kor.html">연구과제
+</a>||
+<a href="http://dblab.kaist.ac.kr/Publication/main_kor.html">발표논문
+</a>]</center>
+
+<p>
+<hr ALIGN=LEFT WIDTH=600>Office : +82-42-869-3522
+<br>Home : +82-42-823-2337
+<br>E-mail : <i><a href="mailto:kywhang@mozart.kaist.ac.kr">kywhang@cs.kaist.ac.kr</a></i>
+<br>
+<hr ALIGN=LEFT WIDTH=600>
+<table WIDTH="600" >
+<tr>
+<td ALIGN=LEFT VALIGN=BOTTOM><font size=-1>제안이나 요구사항을
+<a href="mailto:webmaster@mozart.kaist.ac.kr">webmaster@dblab.kaist.ac.kr
+</a>로
+보내주시기 바랍니다.&nbsp;</font>
+<br><font size=-1>최종 수정일 : 2000년 11월 29일&nbsp;</font></td>
+
+<td VALIGN=CENTER><a href="main_eng.html"><img SRC="gifs/english.gif" ALT="ENGLISH" BORDER=0 ></a></td>
+
+<td ALIGN=RIGHT><a href="http://dblab.kaist.ac.kr/index_kor.html"><img SRC="gifs/home.gif" ALT="DB & MM" BORDER=0 ></a></td>
+</tr>
+</table>
+</body>
+</html>

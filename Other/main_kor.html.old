@@ -1,0 +1,217 @@
+<HTML>
+<HEAD>
+<title> 다른 서비스들 </title>
+<! A revised edition by Sohn, Jung-Hyun>
+</HEAD>
+
+<BODY bgcolor="#FFFFFF" 
+TEXT="#951d1f" LINK="#0000FF" ALINK="#000000" VLINK="#800080">
+<center><p></p></center>
+
+<center><p>
+<br>
+<br></p></center>
+
+<center><p><font COLOR="#0080FF"><font SIZE=+3>INFORMATION ABOUT DATABASE
+</font></font>
+<br>
+<br></p></center>
+
+<blockquote>
+<blockquote>
+<blockquote>
+<dl>
+<dt><img src="gifs/ballred.gif" border=0 height=20 width=20 align=bottom><font COLOR="#FF0080"><font SIZE=+2>Databases
+Journals</font></font></dt>
+
+<dl>
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://bunny.cs.uiuc.edu/README.html" ADD_DATE="803401427" LAST_VISIT="803401405">ACM
+SIGMOD Information Server Home Page</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.informatik.uni-trier.de/~ley/db/conf/vldb/index.html" ADD_DATE="806126697" LAST_VISIT="806126663">VLDB</a>
+</dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.informatik.uni-trier.de/~ley/db/conf/edbt/index.html" ADD_DATE="806126887" LAST_VISIT="806126860">EDBT</a>
+</dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.informatik.uni-trier.de/~ley/db/journals/tods/index.html" ADD_DATE="806126948" LAST_VISIT="806126940">ACM
+Transactions on Database Systems (TODS)</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.informatik.uni-trier.de/~ley/db/conf/sigmod/index.html" ADD_DATE="806126983" LAST_VISIT="806129061">SIGMOD
+Conference</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.informatik.uni-trier.de/~ley/db/journals/tois/index.html" ADD_DATE="806129112" LAST_VISIT="806129098">ACM
+Transactions on (Office) Information Systems (TOIS)</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.almaden.ibm.com/cs/vldb/" ADD_DATE="805537784" LAST_VISIT="805537419">VLDB96
+(Bombay, India) Conference Home Page at IBM Almaden Research</a> </dt>
+
+<dt></dt>
+</dl>
+
+<dt><img src="gifs/ballred.gif" border=0 height=20 width=20 align=bottom><font COLOR="#FF0080"><font SIZE=+2>Object-Oriented
+Databases</font></font></dt>
+
+<dl>
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.odmg.org/" ADD_DATE="794413976" LAST_VISIT="794413969">Object
+Database Management Group Home Page</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.omg.org/" ADD_DATE="805179625" LAST_VISIT="805179481">OMG
+Home Page</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.o2tech.fr/o2web/o2wwwgateway/o2www/info?TheService" ADD_DATE="807924920" LAST_VISIT="807924888">The
+ODMG compliant Object Database System</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.o2tech.fr/o2web/o2wwwgateway/o2www/info?TheService" ADD_DATE="807924920" LAST_VISIT="807924888">Welcome
+to O2 Technology ! </a></dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://cuiwww.unige.ch/OSG/MultimediaResearch/" ADD_DATE="807685998" LAST_VISIT="807685952">Multimedia
+Research in the Object Systems Group</a> </dt>
+
+<dt></dt>
+</dl>
+
+<dt><img src="gifs/ballred.gif" border=0 height=20 width=20 align=bottom><font COLOR="#FF0080"><font SIZE=+2>WWW</font></font></dt>
+
+<dl>
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="gopher://rs.krnic.net:4320/1nntp%20ls%20han.www-forum%20" ADD_DATE="790960917" LAST_VISIT="807858869">www-forum</a>
+</dt>
+</dl>
+
+<dl>
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.ncsa.uiuc.edu/General/Internet/WWW/HTMLPrimer.html#A1.3.1 Thu Jan 26 01:15:22 1995" ADD_DATE="791053096" LAST_VISIT="791053189">A
+Beginner's Guide to HTML</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.ziff.com/~pcweek/navigator/htmled.html" ADD_DATE="790960632" LAST_VISIT="794409686">HTML
+editors</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.sil.org/sgml/sgml.html" ADD_DATE="805802544" LAST_VISIT="805802505">SGML
+Web Page</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.sil.org/sgml/gen-apps.html#hytime" ADD_DATE="805802908" LAST_VISIT="805802836">General
+SGML Applications</a></dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://hoohoo.ncsa.uiuc.edu/cgi/" ADD_DATE="806148784" LAST_VISIT="806148679">The
+Common Gateway Interface</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://hoohoo.ncsa.uiuc.edu/docs/Overview.html" ADD_DATE="791054212" LAST_VISIT="791054202">NCSA
+httpd Overview</a> </dt>
+
+<dt></dt>
+</dl>
+
+<dt><img src="gifs/ballred.gif" border=0 height=20 width=20 align=bottom><font COLOR="#FF0080"><font SIZE=+2>Database
+Archives</font></font></dt>
+
+<dl>
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.lpac.ac.uk/SEL-HPC/Articles/DBArchive.html" ADD_DATE="803401811" LAST_VISIT="803401551">Database
+Archive</a></dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://flower.comeng.chungnam.ac.kr/sharon/people/dolphin/database.html" ADD_DATE="790960693" LAST_VISIT="0">Dolphin's
+List (All Of Database)</a> </dt>
+
+<dt></dt>
+</dl>
+
+<dt><img src="gifs/ballred.gif" border=0 height=20 width=20 align=bottom><font COLOR="#FF0080"><font SIZE=+2>Other
+famous sites related with databases</font></font></dt>
+
+<dl>
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.ieee.org/" ADD_DATE="805803846" LAST_VISIT="805803814">IEEE
+Home Page</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www.mcc.com/" ADD_DATE="806148388" LAST_VISIT="806148287">MCC(Microelectronics
+and Computer Technology Corporation)</a></dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://harvest.cs.colorado.edu/" ADD_DATE="806148245" LAST_VISIT="806148211">The
+Harvest Information Discovery and Access System</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://info.acm.org/" ADD_DATE="809076190" LAST_VISIT="809076167">ACM
+- The First Society in Computing</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://db.stanford.edu/" ADD_DATE="806309761" LAST_VISIT="806395966">The
+Stanford University Database Group</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://www-db.stanford.edu/people/gio.html" ADD_DATE="790961203" LAST_VISIT="794042457">Gio
+Wiederhold's homepage</a> </dt>
+
+<dt><img src="gifs/greenball.gif" border=0 height=14 width=14 align=left><a href="http://db.stanford.edu/~ullman/" ADD_DATE="806310122" LAST_VISIT="806309795">Jeffrey
+D. Ullman</a> </dt>
+</dl>
+
+<dt></dt>
+</dl>
+
+<table>
+<tr>
+        <td> <h2> Internet Services </h2> </td>
+</tr>
+</table>
+<hr>
+
+<H3>
+<p> <ul>
+<p><DT><img src="gifs/greenball.gif" align=left>
+<A HREF="http://www.kaist.ac.kr"> KAIST WWW Server
+</A><p>
+<p><DT><img src="gifs/greenball.gif" align=left>
+<A HREF="http://www.dongguk.ac.kr/"> WWW servers in Korea[Dongguk Univ.]</A><p>
+<p><DT><img src="gifs/greenball.gif" align=left>
+<A HREF="http://www-me.postech.ac.kr/map/"> WWW servers in Korea[Postech]
+</A><p>
+
+<p><DT><img src="gifs/greenball.gif" align=left>
+        <a href="http://www-me.postech.ac.kr/map/tour/"> Tour Sensitive Map </a>
+
+<A NAME="slkim">   
+<p><DT><img src="gifs/greenball.gif" align=left>
+        <a href="/cgi-bin/generator?DIR=/user5/WWW/htdocs/Interesting&URL=Index&DESC=Interesting"> Interesting Sites </a>
+</A>
+<A>   
+<p><DT><img src="gifs/greenball.gif" align=left>
+        <a href="./update_rule.html"> Lab Home Page Update Rule </a>
+</A>
+</ul> </H3>
+
+<hr>
+</BLOCKQUOTE></BLOCKQUOTE></BLOCKQUOTE>
+ 
+
+<h4>
+<P ALIGN=CENTER>
+[ <a href="../Intro/main_kor.html"> 연구실 소개</a>
+|| <A HREF="../Research/main_kor.html"> 연구분야 및 과제</a>
+|| <a href="../Publication/main_kor.html"> 발표논문 </a>
+|| <A HREF="../Members/main_kor.html"> 구성원 소개</a>
+|| 기타]
+</P>
+</h4>
+
+<HR ALIGN=LEFT WIDTH=600>
+
+<TABLE WIDTH=600>
+<TR>
+        <TD ALIGN=LEFT VALIGN=BOTTOM><FONT SIZE=-1>
+                제안이나 요구사항을
+                <a href = "mailto:webmaster@mozart.kaist.ac.kr">
+                webmaster@dblab.kaist.ac.kr </a>
+                로 보내주시기 바랍니다.
+                <BR>
+                최종 수정일 : 1997년 7월 21일
+        </TD>
+        <TD VALIGN=CENTER>
+                <A HREF="main.html">
+                <IMG SRC="gifs/english.gif" ALT="ENGLISH"  BORDER=0>
+                </A>
+        <TD ALIGN=RIGHT>
+                <A HREF="../index_kor.html">
+                <IMG SRC="gifs/home.gif" ALT="DB & MM" BORDER=0>
+		</A>
+        </TD>
+
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>
+

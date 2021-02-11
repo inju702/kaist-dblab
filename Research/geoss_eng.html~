@@ -1,0 +1,81 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=EUC-KR">
+   <META NAME="Author" CONTENT="Minjae Lee">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.04 [en] (Win95; I) [Netscape]">
+   <TITLE>GEOSS : Geographical Object Storage Systems for GIS</TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<CENTER>
+<H1>
+<IMG SRC="gifs/geoss_hd_eng.gif" HEIGHT=118 WIDTH=412></H1></CENTER>
+
+<HR SIZE=0 WIDTH="91%">
+<BR>　
+<CENTER><TABLE BORDER=0 CELLSPACING=4 CELLPADDING=20 WIDTH="74%" BACKGROUND="../Prof/gifs/background.gif" >
+<TR VALIGN=TOP>
+<TD>
+<H2>
+Features and Characteristics</H2>
+
+<UL>
+<LI>
+Using <A HREF="cosmos_eng.html">COSMOS</A>, a general purpose multiuser
+object-storage system, as a Low Layer Storage System</LI>
+
+<LI>
+Integrated Management of Spatial and Nonspatial Data</LI>
+
+<LI>
+Spatial Query Scan Facilities for Various Spatial Query Processing</LI>
+
+<LI>
+Fast Spatial Query Processing Using the Spatial Index MLGF (Multilevel
+Grid File) with Corner Transformation</LI>
+
+<LI>
+Spatial Data Types for Spatial Data Modeling</LI>
+</UL>
+
+<CENTER><IMG SRC="gifs/geoss_st_eng.gif" HEIGHT=302 WIDTH=320></CENTER>
+
+<H2>
+Application Areas</H2>
+
+<UL>
+<LI>
+Geometric Information Systems</LI>
+
+<LI>
+Urban Development Information Systems</LI>
+
+<LI>
+Car Navigation Systems</LI>
+</UL>
+</TD>
+</TR>
+</TABLE></CENTER>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp;
+<HR WIDTH="100%">
+<CENTER>[ <A HREF="../Intro/main.html">Introduction</A> || <A HREF="main.html">Research
+&amp; Project</A> || <A HREF="../Publication/main.html">Publications </A>||
+<A HREF="../Members/main.html">Members </A>|| <A HREF="../Other/main.html">Other
+</A>]</CENTER>
+
+<HR WIDTH="100%">
+<TABLE WIDTH="676" >
+<TR>
+<TD ALIGN=LEFT VALIGN=BOTTOM><FONT SIZE=-1>Please send any suggestion or
+comments for this page to <A HREF="mailto:webmaster@mozart.kaist.ac.kr">webmaster@dblab.kaist.ac.kr</A></FONT>　　　　　　　　　　　　　　&nbsp;
+<BR><FONT SIZE=-1>Last updated Jan. 23rd, 1998</FONT></TD>
+
+<TD VALIGN=CENTER><A HREF="geoss_kor.html"><IMG SRC="gifs/hangul.gif" ALT="KOREAN" BORDER=0 HEIGHT=59 WIDTH=58></A><A HREF="main_kor.html">　</A></TD>
+
+<TD ALIGN=RIGHT><A HREF="../index.html"><IMG SRC="gifs/home.gif" ALT="DB & MM" BORDER=0 HEIGHT=31 WIDTH=116></A>　</TD>
+</TR>
+</TABLE>
+
+<HR WIDTH="100%">
+</BODY>
+</HTML>

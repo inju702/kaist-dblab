@@ -1,0 +1,68 @@
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=EUC-KR">
+   <META NAME="Author" CONTENT="Minjae Lee">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.04 [en] (Win95; I) [Netscape]">
+   <TITLE>PARADISE : Integration of DBMS and Distributed File System for Efficient Big Data Analytics</TITLE>
+</HEAD>
+<BODY TEXT="#000000" BGCOLOR="#FFFFFF" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000">
+
+<p align="center"><img src="images\paradise_eng_html_smartbutton1.jpg" namo_npi=":EmbededNPI1" border="0"></p>
+<HR SIZE=0 WIDTH="91%">
+<BR>　
+<CENTER><TABLE BORDER=0 CELLSPACING=4 CELLPADDING=20 WIDTH="74%" BACKGROUND="../Prof/gifs/background.gif" >
+<TR VALIGN=TOP>
+<TD>
+<H2>Preliminaries</H2>
+HadoopDB is the first work that uses the MapReduce framework together with the RDBMS for big data analytics. HadoopDB stores data in the distributed file system(DFS) and, at query processing time, loads the data in the DFS to a local database in each node, and then, processes queries by local DBMSs. Hence, HadoopDB has the advantages of both MapReduce and the DBMS. However, HadoopDB has the following drawbacks because the DBMSs that process queries are separated from the DFS that stores the data. First, there is a storage overhead due to redundant storage of data in both the DFS and local databases. Second, HadoopDB causes performance degradation by re-loading the DFS data to local databases when processing queries that cannot be processed using the current snapshot of the local databases. Third, HadoopDB, being a shared nothing architecture, does not support queries that require internode communication.
+
+
+<H2>Goal</H2>
+We propose a new parallel processing architecture that integrates the relational DBMS with the DFS as a single system for big data analytics. The new architecture is novel in that the DBMSs directly access the entire DFS without having to partition and re-load the data. We present a prototype system, PARADISE, based on this architecture. With this integration, PARADISE effectively overcomes the drawbacks of HadoopDB.
+
+
+<H2>Features and Characteristics</H2>
+
+<UL>
+<LI>
+A low storage overhead compared to HadoopDB since the system directly uses the DFS as the storage.</LI>
+
+<LI>
+Better query processing performance compared to HadoopDB obviating the need to re-load data.</LI>
+
+<LI>
+An ability to process multiple queries of different types in a row without re-loading, supporting an agile capacity to cope with multi-dimensional analysis.</LI>
+
+</UL>
+
+<CENTER><IMG SRC="gifs/paradise_architecture.jpg" HEIGHT=556 WIDTH=800></CENTER>
+
+
+</UL>
+</TD>
+</TR>
+</TABLE></CENTER>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　&nbsp;
+<HR WIDTH="100%">
+<CENTER>[ <A HREF="../Intro/main.html">Introduction</A> || <A HREF="main.html">Research
+&amp; Project</A> || <A HREF="../Publication/main.html">Publications </A>||
+<A HREF="../Members/main.html">Members </A>|| <A HREF="../Other/main.html">Other
+</A>]</CENTER>
+
+<HR WIDTH="100%">
+<TABLE WIDTH="676" >
+<TR>
+<TD ALIGN=LEFT VALIGN=BOTTOM><FONT SIZE=-1>Please send any suggestion or
+comments for this page to <A HREF="mailto:webmaster@mozart.kaist.ac.kr">webmaster@dblab.kaist.ac.kr</A></FONT>　　　　　　　　　　　　　　&nbsp;
+<BR><FONT SIZE=-1>Last updated Mar. 14th, 2013</FONT></TD>
+
+<TD VALIGN=CENTER><A HREF="geoss_kor.html"><IMG SRC="gifs/hangul.gif" ALT="KOREAN" BORDER=0 HEIGHT=59 WIDTH=58></A><A HREF="main_kor.html">　</A></TD>
+
+<TD ALIGN=RIGHT><A HREF="../index.html"><IMG SRC="gifs/home.gif" ALT="DB & MM" BORDER=0 HEIGHT=31 WIDTH=116></A>　</TD>
+</TR>
+</TABLE>
+
+<HR WIDTH="100%">
+</BODY>
+
+</HTML>

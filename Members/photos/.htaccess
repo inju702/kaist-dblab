@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName Members_photos
+AuthUserFile /array2/old_organ_030722/house1/WWW/htdocs/Members/photos/htpasswd
+AuthGroupFile /dev/null
+<Limit GET POST>
+require valid-user
+</Limit>
